@@ -1,0 +1,106 @@
+<div>
+
+<table style="table-layout:fixed;border-collapse:collapse;border:1px solid #666666;">
+	<caption>
+
+		<span style="float: left;display:inline;padding-left:6px;">Week {{week}}</span>
+		<span style="float: right;display:inline;padding-right:6px;"><input type="button" value="Refresh" ng-click="refresh()"></span>
+
+	</caption>
+	<thead class="hdr">
+		<tr>
+			<th valign="middle" rowspan="3">Visitor</th>
+			<th valign="middle" rowspan="3">Spread</th>
+			<th valign="middle" rowspan="3">Home</th>
+			<th valign="middle" rowspan="3">Day</th>
+			<th valign="middle" rowspan="3">Time</th>
+			<th valign="middle" rowspan="3">Fav</th>
+			<th valign="middle" rowspan="3"></th>
+			<th valign="middle" colspan="8">Predictions</th>
+			<th valign="middle" colspan="9">Outcome</th>
+		</tr>
+		<tr>
+			<th valign="middle" colspan="2">Visitor</th>
+			<th valign="middle" rowspan="2">Spread</th>
+			<th valign="middle" colspan="2">Home</th>
+			<th valign="middle" colspan="2">The Pick</th>
+			<th valign="middle" rowspan="2"></th>
+			<th valign="middle" colspan="2">Visitor</th>
+			<th valign="middle" colspan="2">Home</th>
+			<th valign="middle" colspan="3">Win/Loss</th>
+			<th valign="middle" rowspan="2"></th>
+		</tr>
+		<tr>
+			<th valign="middle">Team</th>
+			<th valign="middle">Pts</th>
+			<th valign="middle">Team</th>
+			<th valign="middle">Pts</th>
+			<th valign="middle">Team</th>
+			<th valign="middle">Diff</th>
+			<th valign="middle">Team</th>
+			<th valign="middle">Pts</th>
+			<th valign="middle">Team</th>
+			<th valign="middle">Pts</th>
+			<th valign="middle">ATS</th>
+			<th valign="middle">Pred/Actual</th>
+			<th valign="middle">Diff</th>
+		</tr>
+	</thead>
+	<tbody class="bdy">
+		<tr ng-class="{ 'pick': game.selected }" ng-repeat="game in games | orderBy : 'longdate'">
+			<td align="center">{{game.visitor}}</td>
+			<td align="center">{{spread(game.spread)}}</td>
+			<td align="center">{{game.home}}</td>
+			<td align="center">{{gameday(game)}}</td>
+			<td align="center">{{gametime(game)}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.favorite}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)"><input ng-disabled="showUpdater || showFinalizer" type="button" value="Update Spread" ng-click="updateSpread(game.$id)"></td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.visitor}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.predictedscore.visitor}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{spread(game.predictedspread)}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.home}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.predictedscore.home}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{pickTeam(game)}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)">{{pickDiff(game)}}</td>
+			<td align="center" ng-show="areSpreadsIn(game.spread)"><input ng-disabled="showUpdater || showFinalizer" ng-show="isGamePicked(game)" type="button" value="Deselect" ng-click="pickThisGame(game, false)"><input ng-disabled="showUpdater || showFinalizer" ng-show="!isGamePicked(game)" type="button" value="Select" ng-click="pickThisGame(game, true)"></td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{game.visitor}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{game.actualscore.visitor}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{game.home}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{game.actualscore.home}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{outcome(game, game.spread)}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{game.predictedspread}}/{{actualDiff(game)}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)">{{predictedDiff(game)}}</td>
+			<td align="center" ng-show="gameIsOver(game.longdate)"><input ng-disabled="showUpdater || showFinalizer" type="button" value="Finalize" ng-click="finalize(game.$id)"></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div ng-show="showUpdater">
+Week {{week}}
+<table>
+	<tr>
+		<td>{{activeGame.visitor}}</td>
+		<td><input type="text" ng-model="activeGame.spread"></td>
+		<td>@{{activeGame.home}}</td>
+		<td>{{gameday(activeGame)}}</td>
+		<td>{{gametime(activeGame)}}</td>
+	<tr>
+</table>
+<input type="button" value="Done" ng-click="closeUpdater()">
+</div>
+
+<div ng-show="showFinalizer">
+Week {{week}}
+<table>
+	<tr>
+		<td>{{activeGame.visitor}}</td>
+		<td><input type="text" ng-model="activeGame.actualscore.visitor"></td>
+		<td>@{{activeGame.home}}</td>
+		<td><input type="text" ng-model="activeGame.actualscore.home"></td>
+		<td>{{gameday(activeGame)}}</td>
+		<td>{{gametime(activeGame)}}</td>
+	<tr>
+</table>
+<input type="button" value="Done" ng-click="closeFinalizer()">
+</div>

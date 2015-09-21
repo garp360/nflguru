@@ -58,31 +58,49 @@
 		
 		function saveGame(week, gameToSave) {
 			var deferred = $q.defer();
-			var hOffStats = {};
-			var hDefStats = {};
-			var vOffStats = {};
-			var vDefStats = {};
+			
+			
+			var hOffStatsLastYear = {};
+			var hDefStatsLastYear = {};
+			var vOffStatsLastYear = {};
+			var vDefStatsLastYear = {};
+			var hOffStatsThisYear = {};
+			var hDefStatsThisYear = {};
+			var vOffStatsThisYear = {};
+			var vDefStatsThisYear = {};
 			var hScore = null;
 			var vScore = null;
 			var pSpread = 999;
 			var homeFieldAdvantageHome = 1.5;
 			var homeFieldAdvantageVisitor = -1;
 			
-			loadOffenseStats(gameToSave.home).then(function(homeOffStats){
-				hOffStats = homeOffStats;
-				return loadOffenseStats(gameToSave.visitor);
+			loadOffenseStatsByYearAndTeam("2014", gameToSave.home).then(function(homeOffStats){
+				hOffStatsLastYear = homeOffStats;
+				return loadOffenseStatsByYearAndTeam("2014", gameToSave.visitor);
 			}).then(function(visitorOffStats){
-				vOffStats = visitorOffStats;
-				return loadDefenseStats(gameToSave.home);
+				vOffStatsLastYear = visitorOffStats;
+				return loadDefenseStatsByYearAndTeam("2014", gameToSave.home);
 			}).then(function(homeDefStats){
-				hDefStats = homeDefStats;
-				return loadDefenseStats(gameToSave.visitor);
+				hDefStatsLastYear = homeDefStats;
+				return loadDefenseStatsByYearAndTeam("2014", gameToSave.visitor);
 			}).then(function(visitorDefStats){
-				vDefStats = visitorDefStats;
-				return predictScore(hOffStats, vDefStats);
+				vDefStatsLastYear = visitorDefStats;
+				return loadOffenseStatsByYearAndTeam("2015", gameToSave.home);
+			}).then(function(homeOffStats){
+				hOffStatsThisYear = homeOffStats;
+				return loadOffenseStatsByYearAndTeam("2015",  gameToSave.visitor);
+			}).then(function(visitorOffStats){
+				vOffStatsThisYear = visitorOffStats;
+				return loadDefenseStatsByYearAndTeam("2015", gameToSave.home);
+			}).then(function(homeDefStats){
+				hDefStatsThisYear = homeDefStats;
+				return loadDefenseStatsByYearAndTeam("2015", gameToSave.visitor);
+			}).then(function(visitorDefStats){
+				vDefStatsThisYear = visitorDefStats;
+				return predictScore(hOffStatsThisYear, hOffStatsLastYear, vOffStatsThisYear, vDefStatsLastYear);
 			}).then(function(predictedHomeScore){
 				hScore = predictedHomeScore + homeFieldAdvantageHome;
-				return predictScore(vOffStats, hDefStats);
+				return predictScore(vOffStatsThisYear, vOffStatsLastYear, hOffStatsThisYear, hDefStatsLastYear);
 			}).then(function(predictedVisitorScore){
 				vScore = predictedVisitorScore + homeFieldAdvantageVisitor;
 				return predictSpread(hScore, vScore);
@@ -117,19 +135,27 @@
 		}
 		
 		
-		function loadOffenseStats(team) {
-			var ref = new Firebase("https://nflguru.firebaseio.com/statistics/2014/offense");
-			return $firebaseObject(ref.child(team.toUpperCase())).$loaded();
+		function loadOffenseStatsByYearAndTeam(year, team) {
+			var ref = new Firebase("https://nflguru.firebaseio.com/statistics");
+			return $firebaseObject(ref.child(year).child("offense").child(team.toUpperCase())).$loaded();
 		};
 
-		function loadDefenseStats(team) {
-			var ref = new Firebase("https://nflguru.firebaseio.com/statistics/2014/defense");
-			return $firebaseObject(ref.child(team.toUpperCase())).$loaded();
+		function loadDefenseStatsByYearAndTeam(year,team) {
+			var ref = new Firebase("https://nflguru.firebaseio.com/statistics");
+			return $firebaseObject(ref.child(year).child("defense").child(team.toUpperCase())).$loaded();
 		};
 		
-		function predictScore(offense, defense) {
+		function predictScore(offenseThisYear, offenseLastYear, defenseThisYear, defenseLastYear) 
+		{
 			var deferred = $q.defer();
-			var score = offense.avgPointsPerGame + ((defense.avgPointsPerGame - offense.avgPointsPerGame)/2);
+			var olMultiplier = 1;
+			var otMultiplier = 3;
+			var dlMultiplier = 3;
+			var dtMultiplier = 1;
+			var oPtsPerGame = ((offenseLastYear.avgPointsPerGame * olMultiplier) + (offenseThisYear.avgPointsPerGame * otMultiplier)) / (olMultiplier + otMultiplier);
+			var dPtsPerGame = ((defenseLastYear.avgPointsPerGame * dlMultiplier) + (defenseThisYear.avgPointsPerGame * dtMultiplier)) / (dlMultiplier + dtMultiplier);
+			
+			var score = oPtsPerGame + ((dPtsPerGame - oPtsPerGame)/2);
 			
 			deferred.resolve(score);
 			

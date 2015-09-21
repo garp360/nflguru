@@ -54,7 +54,7 @@
 			<td align="center">{{gameday(game)}}</td>
 			<td align="center">{{gametime(game)}}</td>
 			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.favorite}}</td>
-			<td align="center" ng-show="areSpreadsIn(game.spread)"><input ng-disabled="showUpdater || showFinalizer" type="button" value="Update Spread" ng-click="updateSpread(game.$id)"></td>
+			<td align="center"><input ng-disabled="showUpdater || showFinalizer" type="button" value="Update Spread" ng-click="updateSpread(game.$id)"></td>
 			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.visitor}}</td>
 			<td align="center" ng-show="areSpreadsIn(game.spread)">{{game.predictedscore.visitor}}</td>
 			<td align="center" ng-show="areSpreadsIn(game.spread)">{{spread(game.predictedspread)}}</td>

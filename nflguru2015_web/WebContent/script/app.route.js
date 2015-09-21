@@ -157,10 +157,16 @@
     		},
         	resolve : 
         	{
-        		week : function() {
-        			var start = moment.utc().milliseconds(0).seconds(0).minutes(0).hours(0);
-        			var today = moment().milliseconds(0).seconds(0).minutes(0).hours(0);
-        			var week = parseInt(((today.dayOfYear() - start.dayOfYear()) / 7)) + 1;
+        		seasonStart : function() {
+        			return moment("09-09-2015", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		today : function() {
+        			return moment().milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		week : function(seasonStart, today) {
+        			var tDayOfYear = today.dayOfYear();
+        			var sDayOfYear = seasonStart.dayOfYear();
+					var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
         			return week;
         		},
         		games : function(NflGuruFactory, week) {

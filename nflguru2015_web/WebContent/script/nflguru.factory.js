@@ -13,6 +13,7 @@
 		factory.saveGame = saveGame;
 		factory.pickGame = pickGame;
 		factory.finalizeGame = finalizeGame;
+		factory.saveSpreads = saveSpreads;
 		
 		function loadWeekly(week) 
 		{
@@ -25,6 +26,23 @@
 			var ref = new Firebase("https://nflguru.firebaseio.com/schedule/2015");
 			return $firebaseObject(ref.child(week).child(gameId)).$loaded();
 		};
+		
+		function saveSpreads(games,week) {
+			var deferred = $q.defer();
+			var promises = [];
+			angular.forEach(games, function(updatedGame){
+			promises.push(loadGame(week, updatedGame.$id).then(function(game){
+					game.spread = updatedGame.spread;
+					game.$save();
+				}));
+			});
+			
+			$q.all(promises).then(function(){
+				deferred.resolve(loadWeekly(week));				
+			});
+			
+			return deferred.promise;
+		}
 
 		function pickGame(week, gameId, selected) {
 			var deferred = $q.defer();
@@ -97,10 +115,10 @@
 				return loadDefenseStatsByYearAndTeam("2015", gameToSave.visitor);
 			}).then(function(visitorDefStats){
 				vDefStatsThisYear = visitorDefStats;
-				return predictScore(hOffStatsThisYear, hOffStatsLastYear, vOffStatsThisYear, vDefStatsLastYear);
+				return predictScore(hOffStatsThisYear, hOffStatsLastYear, vDefStatsThisYear, vDefStatsLastYear);
 			}).then(function(predictedHomeScore){
 				hScore = predictedHomeScore + homeFieldAdvantageHome;
-				return predictScore(vOffStatsThisYear, vOffStatsLastYear, hOffStatsThisYear, hDefStatsLastYear);
+				return predictScore(vOffStatsThisYear, vOffStatsLastYear, hDefStatsThisYear, hDefStatsLastYear);
 			}).then(function(predictedVisitorScore){
 				vScore = predictedVisitorScore + homeFieldAdvantageVisitor;
 				return predictSpread(hScore, vScore);
@@ -149,9 +167,9 @@
 		{
 			var deferred = $q.defer();
 			var olMultiplier = 1;
-			var otMultiplier = 3;
-			var dlMultiplier = 3;
-			var dtMultiplier = 1;
+			var otMultiplier = 2;
+			var dlMultiplier = 1;
+			var dtMultiplier = 2;
 			var oPtsPerGame = ((offenseLastYear.avgPointsPerGame * olMultiplier) + (offenseThisYear.avgPointsPerGame * otMultiplier)) / (olMultiplier + otMultiplier);
 			var dPtsPerGame = ((defenseLastYear.avgPointsPerGame * dlMultiplier) + (defenseThisYear.avgPointsPerGame * dtMultiplier)) / (dlMultiplier + dtMultiplier);
 			
@@ -173,16 +191,26 @@
 		}
 		
 		function roundSpread(value) {
-			var spread = value + "";
-			if(spread.indexOf(".") >= 0) {
-				var split = spread.split(".");
-				if(parseInt(split[1]) >= 5) {
-					spread = split[0] + "." + "5"; 
-				} else {
-					spread = split[0] + "." + "0"; 
+			var spread = value.toString();
+			if(value.indexOf(".") >= 0) 
+			{
+				var split = value.split(".");
+				var integer = parseInt(split[0]);
+				var decimal = parseInt(split[1].substring(0, 1));
+				
+				if(decimal >= 3 && decimal <= 7) 
+				{
+					decimal = "5"; 
+				} 
+				else 
+				{
+					decimal = "0"; 
 				}
-			}
-			spread = parseFloat(spread).toPrecision(1);
+				
+				var number = integer + "." + decimal;
+				
+				spread = parseFloat(number).toFixed(1);
+			} 
 			return spread;
 		}
 		

@@ -1,0 +1,5 @@
+<span>SPREADS</span>
+<div ng-repeat="game in games | orderBy : 'longdate'">
+	<spread game='game' />
+</div>
+<input type="button" value="Save" ng-click="save()"/>

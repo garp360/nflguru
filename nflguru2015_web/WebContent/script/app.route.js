@@ -11,7 +11,7 @@
 		
 		.state('dashboard', 
 		{
-        	url:'/',
+        	url:'/dash',
     		templateUrl: 'view/dashboard.html',
     		controller: function($scope, $log, week, games, NflGuruFactory) {
     			$scope.week = week;
@@ -153,6 +153,42 @@
     			$scope.predictedDiff = function(game) {
     				return Math.abs(game.predictedspread - actualDiff(game));
     			};
+    			
+    		},
+        	resolve : 
+        	{
+        		seasonStart : function() {
+        			return moment("09-09-2015", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		today : function() {
+        			return moment().milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		week : function(seasonStart, today) {
+        			var tDayOfYear = today.dayOfYear();
+        			var sDayOfYear = seasonStart.dayOfYear();
+					var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
+        			return week;
+        		},
+        		games : function(NflGuruFactory, week) {
+        			return NflGuruFactory.loadWeekly(week);
+        		}
+        	}
+		}).state('spreads', 
+		{
+        	url:'/',
+    		templateUrl: 'view/spreads.html',
+    		controller: function($scope, $log, games, week, NflGuruFactory) {
+    			
+    			$scope.games = games;
+    			
+    			$scope.save = save;
+    			
+    			function save() 
+    			{
+    				NflGuruFactory.saveSpreads($scope.games, week).then(function(games){
+    					$scope.games = games;
+    				});
+    			}
     			
     		},
         	resolve : 

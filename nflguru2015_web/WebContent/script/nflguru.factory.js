@@ -167,9 +167,9 @@
 		{
 			var deferred = $q.defer();
 			var olMultiplier = 1;
-			var otMultiplier = 2;
+			var otMultiplier = 1;
 			var dlMultiplier = 1;
-			var dtMultiplier = 2;
+			var dtMultiplier = 1;
 			var oPtsPerGame = ((offenseLastYear.avgPointsPerGame * olMultiplier) + (offenseThisYear.avgPointsPerGame * otMultiplier)) / (olMultiplier + otMultiplier);
 			var dPtsPerGame = ((defenseLastYear.avgPointsPerGame * dlMultiplier) + (defenseThisYear.avgPointsPerGame * dtMultiplier)) / (dlMultiplier + dtMultiplier);
 			

@@ -1,0 +1,5359 @@
+{
+  "schedule" : {
+    "2015" : [ null, [ {
+      "actualscore" : {
+        "home" : 28,
+        "visitor" : 21
+      },
+      "favorite" : "NE",
+      "gametime" : "Sep 10, 2015 8:30:00 PM",
+      "home" : "NE",
+      "longdate" : 1441931400000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 21
+      },
+      "predictedspread" : "6",
+      "selected" : false,
+      "spread" : "7",
+      "visitor" : "PIT",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "31"
+      },
+      "favorite" : "GB",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 28
+      },
+      "predictedspread" : "-3",
+      "spread" : "-6.5",
+      "visitor" : "GB",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "27"
+      },
+      "favorite" : "HOU",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 22
+      },
+      "predictedspread" : "0.5",
+      "spread" : "1",
+      "visitor" : "KC",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "31",
+        "visitor" : "10"
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 18
+      },
+      "predictedspread" : "7",
+      "selected" : true,
+      "spread" : "3",
+      "visitor" : "CLE",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "14"
+      },
+      "favorite" : "IND",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 18
+      },
+      "predictedspread" : "7",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "IND",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "10",
+        "visitor" : "17"
+      },
+      "favorite" : "MIA",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 18,
+        "visitor" : 20
+      },
+      "predictedspread" : "-2",
+      "spread" : "-3.5",
+      "visitor" : "MIA",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "9",
+        "visitor" : "20"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "JAC",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 18,
+        "visitor" : 20
+      },
+      "predictedspread" : "-2",
+      "spread" : "-3.5",
+      "visitor" : "CAR",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "34",
+        "visitor" : "31"
+      },
+      "favorite" : "SEA",
+      "gametime" : "Sep 13, 2015 1:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1442163600000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 26
+      },
+      "predictedspread" : "0.5",
+      "spread" : "-3.5",
+      "visitor" : "SEA",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "31",
+        "visitor" : "19"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Sep 13, 2015 4:05:00 PM",
+      "home" : "ARI",
+      "longdate" : 1442174700000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 20
+      },
+      "predictedspread" : "8",
+      "spread" : "3",
+      "visitor" : "NO",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "33",
+        "visitor" : "28"
+      },
+      "favorite" : "SD",
+      "gametime" : "Sep 13, 2015 4:05:00 PM",
+      "home" : "SD",
+      "longdate" : 1442174700000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 24
+      },
+      "predictedspread" : "3",
+      "spread" : "3",
+      "visitor" : "DET",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "14",
+        "visitor" : "42"
+      },
+      "favorite" : "TB",
+      "gametime" : "Sep 13, 2015 4:25:00 PM",
+      "home" : "TB",
+      "longdate" : 1442175900000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 28
+      },
+      "predictedspread" : "-4",
+      "selected" : true,
+      "spread" : "3",
+      "visitor" : "TEN",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "13",
+        "visitor" : "33"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Sep 13, 2015 4:25:00 PM",
+      "home" : "OAK",
+      "longdate" : 1442175900000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 26
+      },
+      "predictedspread" : "-6",
+      "selected" : true,
+      "spread" : "-3.5",
+      "visitor" : "CIN",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "19",
+        "visitor" : "13"
+      },
+      "favorite" : "DEN",
+      "gametime" : "Sep 13, 2015 4:25:00 PM",
+      "home" : "DEN",
+      "longdate" : 1442175900000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 18
+      },
+      "predictedspread" : "4",
+      "spread" : "4",
+      "visitor" : "BAL",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "26"
+      },
+      "favorite" : "DAL",
+      "gametime" : "Sep 13, 2015 8:30:00 PM",
+      "home" : "DAL",
+      "longdate" : 1442190600000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 23
+      },
+      "predictedspread" : "5",
+      "spread" : "6",
+      "visitor" : "NYG",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "26",
+        "visitor" : "24"
+      },
+      "favorite" : "PHI",
+      "gametime" : "Sep 14, 2015 7:10:00 PM",
+      "home" : "ATL",
+      "longdate" : 1442272200000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 25
+      },
+      "predictedspread" : "2",
+      "spread" : "-2.5",
+      "visitor" : "PHI",
+      "week" : 1
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "3"
+      },
+      "favorite" : "MIN",
+      "gametime" : "Sep 14, 2015 10:20:00 PM",
+      "home" : "SF",
+      "longdate" : 1442283600000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 13
+      },
+      "predictedspread" : "7",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "MIN",
+      "week" : 1
+    } ], [ {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "31"
+      },
+      "favorite" : "KC",
+      "gametime" : "Sep 17, 2015 8:25:00 PM",
+      "home" : "KC",
+      "longdate" : 1442535900000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 21
+      },
+      "predictedspread" : "4",
+      "spread" : "3.5",
+      "visitor" : "DEN",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "17"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "CAR",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 21
+      },
+      "predictedspread" : "0.5",
+      "selected" : false,
+      "spread" : "3",
+      "visitor" : "HOU",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "43",
+        "visitor" : "18"
+      },
+      "favorite" : "PIT",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "PIT",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 20
+      },
+      "predictedspread" : "4",
+      "selected" : false,
+      "spread" : "6",
+      "visitor" : "SF",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "19",
+        "visitor" : "26"
+      },
+      "favorite" : "NO",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "NO",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 19
+      },
+      "predictedspread" : "5",
+      "selected" : false,
+      "spread" : "9.5",
+      "visitor" : "TB",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "26",
+        "visitor" : "16"
+      },
+      "favorite" : "MIN",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 17,
+        "visitor" : 19
+      },
+      "predictedspread" : "-2",
+      "selected" : true,
+      "spread" : "3",
+      "visitor" : "DET",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "48"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 25
+      },
+      "predictedspread" : "-2",
+      "spread" : "-2",
+      "visitor" : "ARI",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "32",
+        "visitor" : "40"
+      },
+      "favorite" : "NE",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 23
+      },
+      "predictedspread" : "0.5",
+      "selected" : false,
+      "spread" : "-1",
+      "visitor" : "NE",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "19"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "CIN",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 25
+      },
+      "predictedspread" : "3",
+      "spread" : "3.5",
+      "visitor" : "SD",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "28",
+        "visitor" : "14"
+      },
+      "favorite" : "CLE",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 23
+      },
+      "predictedspread" : "2",
+      "selected" : true,
+      "spread" : "1",
+      "visitor" : "TEN",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "24"
+      },
+      "favorite" : "NYG",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "NYG",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 24
+      },
+      "predictedspread" : "3",
+      "spread" : "2.5",
+      "visitor" : "ATL",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "10"
+      },
+      "favorite" : "STL",
+      "gametime" : "Sep 20, 2015 1:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1442768400000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3",
+      "selected" : false,
+      "spread" : "-3.5",
+      "visitor" : "STL",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "20"
+      },
+      "favorite" : "MIA",
+      "gametime" : "Sep 20, 2015 4:05:00 PM",
+      "home" : "JAC",
+      "longdate" : 1442779500000,
+      "predictedscore" : {
+        "home" : 19,
+        "visitor" : 20
+      },
+      "predictedspread" : "-2",
+      "selected" : true,
+      "spread" : "-6",
+      "visitor" : "MIA",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "37",
+        "visitor" : "33"
+      },
+      "favorite" : "BAL",
+      "gametime" : "Sep 20, 2015 4:05:00 PM",
+      "home" : "OAK",
+      "longdate" : 1442779500000,
+      "predictedscore" : {
+        "home" : 17,
+        "visitor" : 21
+      },
+      "predictedspread" : "-4",
+      "selected" : true,
+      "spread" : "-6",
+      "visitor" : "BAL",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "10",
+        "visitor" : "20"
+      },
+      "favorite" : "PHI",
+      "gametime" : "Sep 20, 2015 4:25:00 PM",
+      "home" : "PHI",
+      "longdate" : 1442780700000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 25
+      },
+      "predictedspread" : "2",
+      "selected" : true,
+      "spread" : "5.5",
+      "visitor" : "DAL",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "17"
+      },
+      "favorite" : "GB",
+      "gametime" : "Sep 20, 2015 8:30:00 PM",
+      "home" : "GB",
+      "longdate" : 1442795400000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 25
+      },
+      "predictedspread" : "2",
+      "spread" : "3.5",
+      "visitor" : "SEA",
+      "week" : 2
+    }, {
+      "actualscore" : {
+        "home" : "7",
+        "visitor" : "20"
+      },
+      "favorite" : "IND",
+      "gametime" : "Sep 21, 2015 8:30:00 PM",
+      "home" : "IND",
+      "longdate" : 1442881800000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 22
+      },
+      "predictedspread" : "4",
+      "selected" : false,
+      "spread" : "7",
+      "visitor" : "NYJ",
+      "week" : 2
+    } ], [ {
+      "actualscore" : {
+        "home" : "32",
+        "visitor" : "21"
+      },
+      "favorite" : "NYG",
+      "gametime" : "Sep 24, 2015 8:25:00 PM",
+      "home" : "NYG",
+      "longdate" : 1443140700000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 20
+      },
+      "predictedspread" : "1.0",
+      "selected" : false,
+      "spread" : "4.5",
+      "visitor" : "WAS",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "28",
+        "visitor" : "39"
+      },
+      "favorite" : "ATL",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "DAL",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 21
+      },
+      "predictedspread" : "4.5",
+      "selected" : false,
+      "spread" : "-.5",
+      "visitor" : "ATL",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "33",
+        "visitor" : "35"
+      },
+      "favorite" : "IND",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 18
+      },
+      "predictedspread" : "7.5",
+      "selected" : false,
+      "spread" : "-3.5",
+      "visitor" : "IND",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "27"
+      },
+      "favorite" : "CLE",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 21
+      },
+      "predictedspread" : "5.0",
+      "spread" : "3.5",
+      "visitor" : "OAK",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "28"
+      },
+      "favorite" : "BAL",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 25
+      },
+      "predictedspread" : "-3.0",
+      "selected" : true,
+      "spread" : "2.5",
+      "visitor" : "CIN",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "51",
+        "visitor" : "17"
+      },
+      "favorite" : "NE",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "NE",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 29,
+        "visitor" : 19
+      },
+      "predictedspread" : "9.0",
+      "spread" : "13.5",
+      "visitor" : "JAC",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "22"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "CAR",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 17
+      },
+      "predictedspread" : "9.0",
+      "selected" : false,
+      "spread" : "3.5",
+      "visitor" : "NO",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "17",
+        "visitor" : "24"
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 15
+      },
+      "predictedspread" : "9.5",
+      "selected" : true,
+      "spread" : "2.5",
+      "visitor" : "PHI",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "19",
+        "visitor" : "9"
+      },
+      "favorite" : "HOU",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 21
+      },
+      "predictedspread" : "5.0",
+      "spread" : "6.5",
+      "visitor" : "TB",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "31",
+        "visitor" : "14"
+      },
+      "favorite" : "MIN",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 21
+      },
+      "predictedspread" : "1.0",
+      "selected" : false,
+      "spread" : "2.5",
+      "visitor" : "SD",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "6",
+        "visitor" : "12"
+      },
+      "favorite" : "PIT",
+      "gametime" : "Sep 27, 2015 1:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1443373200000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 27
+      },
+      "predictedspread" : "-3.5",
+      "spread" : "-1.5",
+      "visitor" : "PIT",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "47",
+        "visitor" : "7"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Sep 27, 2015 4:05:00 PM",
+      "home" : "ARI",
+      "longdate" : 1443384300000,
+      "predictedscore" : {
+        "home" : 30,
+        "visitor" : 19
+      },
+      "predictedspread" : "11.0",
+      "selected" : true,
+      "spread" : "6.5",
+      "visitor" : "SF",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "14",
+        "visitor" : "41"
+      },
+      "favorite" : "MIA",
+      "gametime" : "Sep 27, 2015 4:25:00 PM",
+      "home" : "MIA",
+      "longdate" : 1443385500000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 22
+      },
+      "predictedspread" : "2.0",
+      "selected" : true,
+      "spread" : "2.5",
+      "visitor" : "BUF",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "26",
+        "visitor" : "0"
+      },
+      "favorite" : "SEA",
+      "gametime" : "Sep 27, 2015 4:25:00 PM",
+      "home" : "SEA",
+      "longdate" : 1443385500000,
+      "predictedscore" : {
+        "home" : 32,
+        "visitor" : 24
+      },
+      "predictedspread" : "8.0",
+      "selected" : false,
+      "spread" : "14.5",
+      "visitor" : "CHI",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "12",
+        "visitor" : "24"
+      },
+      "favorite" : "DEN",
+      "gametime" : "Sep 27, 2015 8:30:00 PM",
+      "home" : "DET",
+      "longdate" : 1443400200000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 25
+      },
+      "predictedspread" : "-3.0",
+      "selected" : true,
+      "spread" : "-3.5",
+      "visitor" : "DEN",
+      "week" : 3
+    }, {
+      "actualscore" : {
+        "home" : "38",
+        "visitor" : "28"
+      },
+      "favorite" : "GB",
+      "gametime" : "Sep 28, 2015 8:30:00 PM",
+      "home" : "GB",
+      "longdate" : 1443486600000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 22
+      },
+      "predictedspread" : "6.0",
+      "selected" : false,
+      "spread" : "6.5",
+      "visitor" : "KC",
+      "week" : 3
+    } ], [ {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "23"
+      },
+      "favorite" : "BAL",
+      "gametime" : "Oct 1, 2015 8:25:00 PM",
+      "home" : "PIT",
+      "longdate" : 1443745500000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 21
+      },
+      "predictedspread" : "6.5",
+      "selected" : false,
+      "spread" : "-2.5",
+      "visitor" : "BAL",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "14",
+        "visitor" : "27"
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Oct 4, 2015 9:30:00 AM",
+      "home" : "MIA",
+      "longdate" : 1443965400000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 22
+      },
+      "predictedspread" : "-1.5",
+      "selected" : true,
+      "spread" : "-1.5",
+      "visitor" : "NYJ",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "16",
+        "visitor" : "13"
+      },
+      "favorite" : "IND",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "IND",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 20
+      },
+      "predictedspread" : "7.0",
+      "selected" : false,
+      "spread" : "9",
+      "visitor" : "JAC",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "10",
+        "visitor" : "24"
+      },
+      "favorite" : "BUF",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 22
+      },
+      "predictedspread" : "6.0",
+      "spread" : "6",
+      "visitor" : "NYG",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "37"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 19,
+        "visitor" : 24
+      },
+      "predictedspread" : "-4.5",
+      "selected" : false,
+      "spread" : "-3",
+      "visitor" : "CAR",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "20"
+      },
+      "favorite" : "PHI",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 22
+      },
+      "predictedspread" : "0.5",
+      "selected" : true,
+      "spread" : "-3",
+      "visitor" : "PHI",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "22",
+        "visitor" : "20"
+      },
+      "favorite" : "OAK",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 26
+      },
+      "predictedspread" : "-2.0",
+      "selected" : false,
+      "spread" : "-3",
+      "visitor" : "OAK",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "48",
+        "visitor" : "21"
+      },
+      "favorite" : "ATL",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 21
+      },
+      "predictedspread" : "3.5",
+      "spread" : "6",
+      "visitor" : "HOU",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "36",
+        "visitor" : "21"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Oct 4, 2015 1:00:00 PM",
+      "home" : "CIN",
+      "longdate" : 1443978000000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 21
+      },
+      "predictedspread" : "6.5",
+      "selected" : true,
+      "spread" : "4",
+      "visitor" : "KC",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "30",
+        "visitor" : "27"
+      },
+      "favorite" : "SD",
+      "gametime" : "Oct 4, 2015 4:05:00 PM",
+      "home" : "SD",
+      "longdate" : 1443989100000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 21
+      },
+      "predictedspread" : "2.5",
+      "selected" : true,
+      "spread" : "7.5",
+      "visitor" : "CLE",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "3",
+        "visitor" : "17"
+      },
+      "favorite" : "GB",
+      "gametime" : "Oct 4, 2015 4:25:00 PM",
+      "home" : "SF",
+      "longdate" : 1443990300000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 29
+      },
+      "predictedspread" : "-7.5",
+      "selected" : false,
+      "spread" : "-8.5",
+      "visitor" : "GB",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "22",
+        "visitor" : "24"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Oct 4, 2015 4:25:00 PM",
+      "home" : "ARI",
+      "longdate" : 1443990300000,
+      "predictedscore" : {
+        "home" : 30,
+        "visitor" : 16
+      },
+      "predictedspread" : "13.5",
+      "selected" : true,
+      "spread" : "6.5",
+      "visitor" : "STL",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "20"
+      },
+      "favorite" : "DEN",
+      "gametime" : "Oct 4, 2015 4:25:00 PM",
+      "home" : "DEN",
+      "longdate" : 1443990300000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 18
+      },
+      "predictedspread" : "5.5",
+      "selected" : false,
+      "spread" : "7",
+      "visitor" : "MIN",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "26",
+        "visitor" : "20"
+      },
+      "favorite" : "NO",
+      "gametime" : "Oct 4, 2015 8:30:00 PM",
+      "home" : "NO",
+      "longdate" : 1444005000000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 26
+      },
+      "predictedspread" : "-1.5",
+      "selected" : false,
+      "spread" : "4",
+      "visitor" : "DAL",
+      "week" : 4
+    }, {
+      "actualscore" : {
+        "home" : "13",
+        "visitor" : "10"
+      },
+      "favorite" : "SEA",
+      "gametime" : "Oct 5, 2015 8:30:00 PM",
+      "home" : "SEA",
+      "longdate" : 1444091400000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 18
+      },
+      "predictedspread" : "8",
+      "selected" : false,
+      "spread" : "10",
+      "visitor" : "DET",
+      "week" : 4
+    } ], [ {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "27"
+      },
+      "favorite" : "HOU",
+      "gametime" : "Oct 8, 2015 8:25:00 PM",
+      "home" : "HOU",
+      "longdate" : 1444350300000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 22
+      },
+      "predictedspread" : "1.5",
+      "spread" : "1.5",
+      "visitor" : "IND",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "17",
+        "visitor" : "18"
+      },
+      "favorite" : "KC",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "KC",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 20
+      },
+      "predictedspread" : "7.5",
+      "selected" : false,
+      "spread" : "9.5",
+      "visitor" : "CHI",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "24"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "CIN",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 21
+      },
+      "predictedspread" : "2.5",
+      "selected" : false,
+      "spread" : "3",
+      "visitor" : "SEA",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "25",
+        "visitor" : "19"
+      },
+      "favorite" : "ATL",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 21
+      },
+      "predictedspread" : "6.0",
+      "selected" : false,
+      "spread" : "7.5",
+      "visitor" : "WAS",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "38",
+        "visitor" : "31"
+      },
+      "favorite" : "TB",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 20
+      },
+      "predictedspread" : "3",
+      "selected" : false,
+      "spread" : "3",
+      "visitor" : "JAC",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "39",
+        "visitor" : "17"
+      },
+      "favorite" : "PHI",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "PHI",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 22
+      },
+      "predictedspread" : "4.5",
+      "spread" : "5",
+      "visitor" : "NO",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "30",
+        "visitor" : "33"
+      },
+      "favorite" : "BAL",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 20
+      },
+      "predictedspread" : "5.0",
+      "selected" : false,
+      "spread" : "6.5",
+      "visitor" : "CLE",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "10"
+      },
+      "favorite" : "GB",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "GB",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 19
+      },
+      "predictedspread" : "8.5",
+      "selected" : false,
+      "spread" : "9.5",
+      "visitor" : "STL",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "13",
+        "visitor" : "14"
+      },
+      "favorite" : "BUF",
+      "gametime" : "Oct 11, 2015 1:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1444582800000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 25
+      },
+      "predictedspread" : "-1.5",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "BUF",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "17",
+        "visitor" : "42"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Oct 11, 2015 4:05:00 PM",
+      "home" : "DET",
+      "longdate" : 1444593900000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.5",
+      "selected" : true,
+      "spread" : "-3",
+      "visitor" : "ARI",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "6",
+        "visitor" : "30"
+      },
+      "favorite" : "NE",
+      "gametime" : "Oct 11, 2015 4:25:00 PM",
+      "home" : "DAL",
+      "longdate" : 1444595100000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 28
+      },
+      "predictedspread" : "-2.5",
+      "selected" : true,
+      "spread" : "-8.5",
+      "visitor" : "NE",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "10",
+        "visitor" : "16"
+      },
+      "favorite" : "DEN",
+      "gametime" : "Oct 11, 2015 4:25:00 PM",
+      "home" : "OAK",
+      "longdate" : 1444595100000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 26
+      },
+      "predictedspread" : "-5.0",
+      "selected" : true,
+      "spread" : "-5.5",
+      "visitor" : "DEN",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "30",
+        "visitor" : "27"
+      },
+      "favorite" : "NYG",
+      "gametime" : "Oct 11, 2015 8:30:00 PM",
+      "home" : "NYG",
+      "longdate" : 1444609800000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 18
+      },
+      "predictedspread" : "7.0",
+      "selected" : false,
+      "spread" : "7",
+      "visitor" : "SF",
+      "week" : 5
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "24"
+      },
+      "favorite" : "SD",
+      "gametime" : "Oct 12, 2015 8:30:00 PM",
+      "home" : "SD",
+      "longdate" : 1444696200000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 24
+      },
+      "predictedspread" : "0.5",
+      "selected" : true,
+      "spread" : "3",
+      "visitor" : "PIT",
+      "week" : 5
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "ATL",
+      "gametime" : "Oct 15, 2015 8:25:00 PM",
+      "home" : "NO",
+      "longdate" : 1444955100000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 29
+      },
+      "predictedspread" : "-5.0",
+      "selected" : false,
+      "spread" : "-3.5",
+      "visitor" : "ATL",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 16
+      },
+      "predictedspread" : "7.5",
+      "selected" : false,
+      "spread" : "5.5",
+      "visitor" : "WAS",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "ARI",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "PIT",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 27
+      },
+      "predictedspread" : "-4.0",
+      "selected" : true,
+      "spread" : "-3.5",
+      "visitor" : "ARI",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "MIN",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 21
+      },
+      "predictedspread" : "6.5",
+      "selected" : true,
+      "spread" : "3.5",
+      "visitor" : "KC",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "CIN",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 26
+      },
+      "predictedspread" : "0.5",
+      "selected" : false,
+      "spread" : "-2.5",
+      "visitor" : "CIN",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "DET",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "DET",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 20
+      },
+      "predictedspread" : "5.0",
+      "selected" : false,
+      "spread" : "2.5",
+      "visitor" : "CHI",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "DEN",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.0",
+      "selected" : true,
+      "spread" : "-4.5",
+      "visitor" : "DEN",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "HOU",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "JAC",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 22
+      },
+      "predictedspread" : "0.5",
+      "spread" : "-1.5",
+      "visitor" : "HOU",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "TEN",
+      "gametime" : "Oct 18, 2015 1:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1445187600000,
+      "predictedscore" : {
+        "home" : 29,
+        "visitor" : 20
+      },
+      "predictedspread" : "9",
+      "selected" : false,
+      "spread" : "2.5",
+      "visitor" : "MIA",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "SEA",
+      "gametime" : "Oct 18, 2015 4:05:00 PM",
+      "home" : "SEA",
+      "longdate" : 1445198700000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 21
+      },
+      "predictedspread" : "0.0",
+      "selected" : false,
+      "spread" : "6.5",
+      "visitor" : "CAR",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "GB",
+      "gametime" : "Oct 18, 2015 4:25:00 PM",
+      "home" : "GB",
+      "longdate" : 1445199900000,
+      "predictedscore" : {
+        "home" : 29,
+        "visitor" : 20
+      },
+      "predictedspread" : "9.5",
+      "selected" : false,
+      "spread" : "10.5",
+      "visitor" : "SD",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "BAL",
+      "gametime" : "Oct 18, 2015 4:25:00 PM",
+      "home" : "SF",
+      "longdate" : 1445199900000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.0",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "BAL",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NE",
+      "gametime" : "Oct 18, 2015 8:30:00 PM",
+      "home" : "IND",
+      "longdate" : 1445214600000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 30
+      },
+      "predictedspread" : "-8.5",
+      "selected" : true,
+      "spread" : "-7.5",
+      "visitor" : "NE",
+      "week" : 6
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "PHI",
+      "gametime" : "Oct 19, 2015 8:30:00 PM",
+      "home" : "PHI",
+      "longdate" : 1445301000000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 23
+      },
+      "predictedspread" : "-1",
+      "selected" : false,
+      "spread" : "3.5",
+      "visitor" : "NYG",
+      "week" : 6
+    } ], [ {
+      "actualscore" : {
+        "home" : "3",
+        "visitor" : "20"
+      },
+      "favorite" : "SEA",
+      "gametime" : "Oct 22, 2015 8:25:00 PM",
+      "home" : "SF",
+      "longdate" : 1445559900000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.0",
+      "selected" : true,
+      "spread" : "-6.5",
+      "visitor" : "SEA",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "34",
+        "visitor" : "31"
+      },
+      "favorite" : "BUF",
+      "gametime" : "Oct 25, 2015 9:30:00 AM",
+      "home" : "JAC",
+      "longdate" : 1445779800000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 26
+      },
+      "predictedspread" : "-3.0",
+      "selected" : false,
+      "spread" : "-5.5",
+      "visitor" : "BUF",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "31",
+        "visitor" : "30"
+      },
+      "favorite" : "WAS",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 22
+      },
+      "predictedspread" : "4.5",
+      "spread" : "3.5",
+      "visitor" : "TB",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "7",
+        "visitor" : "10"
+      },
+      "favorite" : "ATL",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 27
+      },
+      "predictedspread" : "-2.5",
+      "spread" : "-4.5",
+      "visitor" : "ATL",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "21",
+        "visitor" : "27"
+      },
+      "favorite" : "IND",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "IND",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 22
+      },
+      "predictedspread" : "3.0",
+      "selected" : true,
+      "spread" : "4.5",
+      "visitor" : "NO",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "19",
+        "visitor" : "28"
+      },
+      "favorite" : "MIN",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "DET",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 23
+      },
+      "predictedspread" : "-3.0",
+      "spread" : "-2.5",
+      "visitor" : "MIN",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "23",
+        "visitor" : "13"
+      },
+      "favorite" : "PIT",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "KC",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.0",
+      "spread" : "-3.0",
+      "visitor" : "PIT",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "6"
+      },
+      "favorite" : "STL",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 22
+      },
+      "predictedspread" : "1",
+      "selected" : true,
+      "spread" : "5.5",
+      "visitor" : "CLE",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "44",
+        "visitor" : "26"
+      },
+      "favorite" : "MIA",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "MIA",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 21
+      },
+      "predictedspread" : "3.0",
+      "spread" : "4.0",
+      "visitor" : "HOU",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "30",
+        "visitor" : "23"
+      },
+      "favorite" : "NE",
+      "gametime" : "Oct 25, 2015 1:00:00 PM",
+      "home" : "NE",
+      "longdate" : 1445792400000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 22
+      },
+      "predictedspread" : "5.0",
+      "selected" : true,
+      "spread" : "9.0",
+      "visitor" : "NYJ",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "29",
+        "visitor" : "37"
+      },
+      "favorite" : "SD",
+      "gametime" : "Oct 25, 2015 4:05:00 PM",
+      "home" : "SD",
+      "longdate" : 1445803500000,
+      "predictedscore" : {
+        "home" : 25,
+        "visitor" : 23
+      },
+      "predictedspread" : "2.0",
+      "spread" : "4.0",
+      "visitor" : "OAK",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "20"
+      },
+      "favorite" : "NYG",
+      "gametime" : "Oct 25, 2015 4:25:00 PM",
+      "home" : "NYG",
+      "longdate" : 1445804700000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 20
+      },
+      "predictedspread" : "5.5",
+      "spread" : "3.5",
+      "visitor" : "DAL",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "16"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Oct 25, 2015 8:30:00 PM",
+      "home" : "CAR",
+      "longdate" : 1445819400000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 20
+      },
+      "predictedspread" : "3.5",
+      "spread" : "3.0",
+      "visitor" : "PHI",
+      "week" : 7
+    }, {
+      "actualscore" : {
+        "home" : "26",
+        "visitor" : "18"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Oct 26, 2015 8:30:00 PM",
+      "home" : "ARI",
+      "longdate" : 1445905800000,
+      "predictedscore" : {
+        "home" : 32,
+        "visitor" : 21
+      },
+      "predictedspread" : "11.5",
+      "selected" : true,
+      "spread" : "7.5",
+      "visitor" : "BAL",
+      "week" : 7
+    } ], [ {
+      "actualscore" : {
+        "home" : "36",
+        "visitor" : "7"
+      },
+      "favorite" : "NE",
+      "gametime" : "Oct 29, 2015 8:25:00 PM",
+      "home" : "NE",
+      "longdate" : 1446164700000,
+      "predictedscore" : {
+        "home" : 31,
+        "visitor" : 22
+      },
+      "predictedspread" : "8.0",
+      "selected" : true,
+      "spread" : "7.5",
+      "visitor" : "MIA",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "45",
+        "visitor" : "10"
+      },
+      "favorite" : "KC",
+      "gametime" : "Nov 1, 2015 8:30:00 AM",
+      "home" : "KC",
+      "longdate" : 1446384600000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 21
+      },
+      "predictedspread" : "5.0",
+      "spread" : "5.5",
+      "visitor" : "DET",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "23"
+      },
+      "favorite" : "ATL",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 30,
+        "visitor" : 21
+      },
+      "predictedspread" : "8.0",
+      "selected" : true,
+      "spread" : "7.5",
+      "visitor" : "TB",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "34"
+      },
+      "favorite" : "ARI",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 28
+      },
+      "predictedspread" : "-6.0",
+      "spread" : "-4.5",
+      "visitor" : "ARI",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "27",
+        "visitor" : "6"
+      },
+      "favorite" : "STL",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 16
+      },
+      "predictedspread" : "7.0",
+      "spread" : "8.5",
+      "visitor" : "SF",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "52",
+        "visitor" : "49"
+      },
+      "favorite" : "NO",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "NO",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 24
+      },
+      "predictedspread" : "0.0",
+      "selected" : false,
+      "spread" : "3.5",
+      "visitor" : "NYG",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "23"
+      },
+      "favorite" : "MIN",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 24
+      },
+      "predictedspread" : "-4.0",
+      "selected" : true,
+      "spread" : "-.5",
+      "visitor" : "MIN",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "29",
+        "visitor" : "26"
+      },
+      "favorite" : "BAL",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 24
+      },
+      "predictedspread" : "2.0",
+      "spread" : "3.5",
+      "visitor" : "SD",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "10",
+        "visitor" : "16"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "PIT",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 23,
+        "visitor" : 24
+      },
+      "predictedspread" : "0.5",
+      "selected" : true,
+      "spread" : "-1.5",
+      "visitor" : "CIN",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "20",
+        "visitor" : "6"
+      },
+      "favorite" : "HOU",
+      "gametime" : "Nov 1, 2015 12:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1446397200000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 23
+      },
+      "predictedspread" : "1",
+      "selected" : false,
+      "spread" : "3.5",
+      "visitor" : "TEN",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "24",
+        "visitor" : "30"
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Nov 1, 2015 3:05:00 PM",
+      "home" : "OAK",
+      "longdate" : 1446408300000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 24
+      },
+      "predictedspread" : "-2.0",
+      "spread" : "-1.5",
+      "visitor" : "NYJ",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "12",
+        "visitor" : "13"
+      },
+      "favorite" : "SEA",
+      "gametime" : "Nov 1, 2015 3:25:00 PM",
+      "home" : "DAL",
+      "longdate" : 1446409500000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 23
+      },
+      "predictedspread" : "-2.5",
+      "spread" : "-5.5",
+      "visitor" : "SEA",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "29",
+        "visitor" : "10"
+      },
+      "favorite" : "GB",
+      "gametime" : "Nov 1, 2015 7:30:00 PM",
+      "home" : "DEN",
+      "longdate" : 1446424200000,
+      "predictedscore" : {
+        "home" : 22,
+        "visitor" : 21
+      },
+      "predictedspread" : "0.5",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "GB",
+      "week" : 8
+    }, {
+      "actualscore" : {
+        "home" : "29",
+        "visitor" : "26"
+      },
+      "favorite" : "CAR",
+      "gametime" : "Nov 2, 2015 7:30:00 PM",
+      "home" : "CAR",
+      "longdate" : 1446510600000,
+      "predictedscore" : {
+        "home" : 27,
+        "visitor" : 19
+      },
+      "predictedspread" : "8.0",
+      "selected" : false,
+      "spread" : "6.5",
+      "visitor" : "IND",
+      "week" : 8
+    } ], [ {
+      "actualscore" : {
+        "home" : "31",
+        "visitor" : "10"
+      },
+      "favorite" : "CIN",
+      "gametime" : "Nov 5, 2015 7:25:00 PM",
+      "home" : "CIN",
+      "longdate" : 1446769500000,
+      "predictedscore" : {
+        "home" : 29,
+        "visitor" : 19
+      },
+      "predictedspread" : "10.0",
+      "spread" : "11",
+      "visitor" : "CLE",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "GB",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "CAR",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 21
+      },
+      "predictedspread" : "3.5",
+      "selected" : false,
+      "spread" : "-2.5",
+      "visitor" : "GB",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NE",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "NE",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 31,
+        "visitor" : 19
+      },
+      "predictedspread" : "12.0",
+      "selected" : true,
+      "spread" : "14",
+      "visitor" : "WAS",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NO",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "NO",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 23
+      },
+      "predictedspread" : "3.5",
+      "selected" : true,
+      "spread" : "8",
+      "visitor" : "TEN",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "BUF",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 22
+      },
+      "predictedspread" : "4.0",
+      "spread" : "3",
+      "visitor" : "MIA",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "MIN",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 17
+      },
+      "predictedspread" : "3.5",
+      "selected" : true,
+      "spread" : "2",
+      "visitor" : "STL",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NYJ",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 29,
+        "visitor" : 19
+      },
+      "predictedspread" : "9.0",
+      "selected" : true,
+      "spread" : "7",
+      "visitor" : "JAC",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "PIT",
+      "gametime" : "Nov 8, 2015 12:00:00 PM",
+      "home" : "PIT",
+      "longdate" : 1447002000000,
+      "predictedscore" : {
+        "home" : 24,
+        "visitor" : 21
+      },
+      "predictedspread" : "3.5",
+      "spread" : "4.5",
+      "visitor" : "OAK",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "NYG",
+      "gametime" : "Nov 8, 2015 3:05:00 PM",
+      "home" : "TB",
+      "longdate" : 1447013100000,
+      "predictedscore" : {
+        "home" : 26,
+        "visitor" : 27
+      },
+      "predictedspread" : "0.5",
+      "selected" : true,
+      "spread" : "-2.5",
+      "visitor" : "NYG",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "ATL",
+      "gametime" : "Nov 8, 2015 3:05:00 PM",
+      "home" : "SF",
+      "longdate" : 1447013100000,
+      "predictedscore" : {
+        "home" : 19,
+        "visitor" : 25
+      },
+      "predictedspread" : "-6.0",
+      "spread" : "-7",
+      "visitor" : "ATL",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "DEN",
+      "gametime" : "Nov 8, 2015 3:25:00 PM",
+      "home" : "IND",
+      "longdate" : 1447014300000,
+      "predictedscore" : {
+        "home" : 20,
+        "visitor" : 24
+      },
+      "predictedspread" : "-3.5",
+      "spread" : "-4.5",
+      "visitor" : "DEN",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "PHI",
+      "gametime" : "Nov 8, 2015 7:30:00 PM",
+      "home" : "DAL",
+      "longdate" : 1447029000000,
+      "predictedscore" : {
+        "home" : 21,
+        "visitor" : 23
+      },
+      "predictedspread" : "-1.0",
+      "selected" : false,
+      "spread" : "-2.5",
+      "visitor" : "PHI",
+      "week" : 9
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "favorite" : "SD",
+      "gametime" : "Nov 9, 2015 7:30:00 PM",
+      "home" : "SD",
+      "longdate" : 1447115400000,
+      "predictedscore" : {
+        "home" : 28,
+        "visitor" : 23
+      },
+      "predictedspread" : "4.5",
+      "spread" : "4",
+      "visitor" : "CHI",
+      "week" : 9
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 12, 2015 7:25:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1447374300000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BUF",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "GB",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DET",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DAL",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CAR",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CHI",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NO",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "PHI",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIA",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "PIT",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CLE",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 12:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1447606800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "JAC",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 3:05:00 PM",
+      "home" : "OAK",
+      "longdate" : 1447617900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIN",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 3:25:00 PM",
+      "home" : "NYG",
+      "longdate" : 1447619100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NE",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 3:25:00 PM",
+      "home" : "DEN",
+      "longdate" : 1447619100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "KC",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 15, 2015 7:30:00 PM",
+      "home" : "SEA",
+      "longdate" : 1447633800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ARI",
+      "week" : 10
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 16, 2015 7:30:00 PM",
+      "home" : "CIN",
+      "longdate" : 1447720200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "HOU",
+      "week" : 10
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 19, 2015 7:25:00 PM",
+      "home" : "JAC",
+      "longdate" : 1447979100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TEN",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "DET",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "OAK",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "IND",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYJ",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "PHI",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TB",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DEN",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "GB",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "STL",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "MIA",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DAL",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 12:00:00 PM",
+      "home" : "CAR",
+      "longdate" : 1448211600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "WAS",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 3:05:00 PM",
+      "home" : "ARI",
+      "longdate" : 1448222700000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CIN",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 3:25:00 PM",
+      "home" : "SEA",
+      "longdate" : 1448223900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SF",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 22, 2015 7:30:00 PM",
+      "home" : "SD",
+      "longdate" : 1448238600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "KC",
+      "week" : 11
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 23, 2015 7:30:00 PM",
+      "home" : "NE",
+      "longdate" : 1448325000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BUF",
+      "week" : 11
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 26, 2015 11:30:00 AM",
+      "home" : "DET",
+      "longdate" : 1448555400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "PHI",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 26, 2015 3:30:00 PM",
+      "home" : "DAL",
+      "longdate" : 1448569800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CAR",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 26, 2015 7:30:00 PM",
+      "home" : "GB",
+      "longdate" : 1448584200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CHI",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NO",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "CIN",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "STL",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIN",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYG",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "IND",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TB",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "KC",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BUF",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "OAK",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "JAC",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SD",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 12:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1448816400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIA",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 3:05:00 PM",
+      "home" : "SF",
+      "longdate" : 1448827500000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ARI",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 3:25:00 PM",
+      "home" : "SEA",
+      "longdate" : 1448828700000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "PIT",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 29, 2015 7:30:00 PM",
+      "home" : "DEN",
+      "longdate" : 1448843400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NE",
+      "week" : 12
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Nov 30, 2015 7:30:00 PM",
+      "home" : "CLE",
+      "longdate" : 1448929800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BAL",
+      "week" : 12
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 3, 2015 7:25:00 PM",
+      "home" : "DET",
+      "longdate" : 1449188700000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "GB",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "NYG",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYJ",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ARI",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ATL",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "NO",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CAR",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SEA",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "HOU",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "MIA",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BAL",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CIN",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "JAC",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 12:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1449421200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SF",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 3:05:00 PM",
+      "home" : "SD",
+      "longdate" : 1449432300000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DEN",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 3:05:00 PM",
+      "home" : "OAK",
+      "longdate" : 1449432300000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "KC",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 3:25:00 PM",
+      "home" : "NE",
+      "longdate" : 1449433500000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "PHI",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 6, 2015 7:30:00 PM",
+      "home" : "PIT",
+      "longdate" : 1449448200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "IND",
+      "week" : 13
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 7, 2015 7:30:00 PM",
+      "home" : "WAS",
+      "longdate" : 1449534600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DAL",
+      "week" : 13
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 10, 2015 7:25:00 PM",
+      "home" : "ARI",
+      "longdate" : 1449793500000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIN",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "PHI",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BUF",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "CLE",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SF",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "STL",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DET",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NO",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TEN",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "CIN",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "PIT",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "HOU",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NE",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "JAC",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "IND",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "KC",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SD",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "CHI",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "WAS",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 12:00:00 PM",
+      "home" : "CAR",
+      "longdate" : 1450026000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ATL",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 3:05:00 PM",
+      "home" : "DEN",
+      "longdate" : 1450037100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "OAK",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 3:25:00 PM",
+      "home" : "GB",
+      "longdate" : 1450038300000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DAL",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 13, 2015 7:30:00 PM",
+      "home" : "BAL",
+      "longdate" : 1450053000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SEA",
+      "week" : 14
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 14, 2015 7:30:00 PM",
+      "home" : "MIA",
+      "longdate" : 1450139400000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYG",
+      "week" : 14
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 17, 2015 7:25:00 PM",
+      "home" : "STL",
+      "longdate" : 1450398300000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TB",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 19, 2015 7:25:00 PM",
+      "home" : "DAL",
+      "longdate" : 1450571100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYJ",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CHI",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "JAC",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ATL",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "IND",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "HOU",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "PHI",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "ARI",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "NYG",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CAR",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "NE",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "TEN",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "WAS",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "BUF",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 12:00:00 PM",
+      "home" : "BAL",
+      "longdate" : 1450630800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "KC",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 3:05:00 PM",
+      "home" : "SEA",
+      "longdate" : 1450641900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CLE",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 3:05:00 PM",
+      "home" : "OAK",
+      "longdate" : 1450641900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "GB",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 3:25:00 PM",
+      "home" : "PIT",
+      "longdate" : 1450643100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DEN",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 3:25:00 PM",
+      "home" : "SD",
+      "longdate" : 1450643100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "MIA",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 20, 2015 7:30:00 PM",
+      "home" : "SF",
+      "longdate" : 1450657800000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CIN",
+      "week" : 15
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 21, 2015 7:30:00 PM",
+      "home" : "NO",
+      "longdate" : 1450744200000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DET",
+      "week" : 15
+    } ], [ {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 24, 2015 7:25:00 PM",
+      "home" : "OAK",
+      "longdate" : 1451003100000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SD",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 26, 2015 7:25:00 PM",
+      "home" : "PHI",
+      "longdate" : 1451175900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "WAS",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "NYJ",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NE",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "TEN",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "HOU",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "KC",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CLE",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "MIA",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "IND",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "NO",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "JAC",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "DET",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "SF",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "BUF",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "DAL",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "TB",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CHI",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "ATL",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CAR",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 12:00:00 PM",
+      "home" : "MIN",
+      "longdate" : 1451235600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "NYG",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 3:25:00 PM",
+      "home" : "SEA",
+      "longdate" : 1451247900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "STL",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 3:25:00 PM",
+      "home" : "ARI",
+      "longdate" : 1451247900000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "GB",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 27, 2015 7:30:00 PM",
+      "home" : "BAL",
+      "longdate" : 1451262600000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "PIT",
+      "week" : 16
+    }, {
+      "actualscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "gametime" : "Dec 28, 2015 7:30:00 PM",
+      "home" : "DEN",
+      "longdate" : 1451349000000,
+      "predictedscore" : {
+        "home" : -1,
+        "visitor" : -1
+      },
+      "predictedspread" : 999,
+      "spread" : 999,
+      "visitor" : "CIN",
+      "week" : 16
+    } ] ]
+  },
+  "statistics" : {
+    "2014" : {
+      "defense" : {
+        "ARI" : {
+          "avgPointsPerGame" : 18.7,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 12,
+          "rank" : 9,
+          "teamName" : "ARI",
+          "totalFourthDownsAttempted" : 13,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 13,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 130,
+          "totalPenaltyYards" : 1192,
+          "totalPlaysFromScrimmage" : 1010,
+          "totalPointsScored" : 299,
+          "totalThirdDownsAttempted" : 215,
+          "totalThirdDownsMade" : 81
+        },
+        "ATL" : {
+          "avgPointsPerGame" : 26.1,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 39,
+          "rank" : 1,
+          "teamName" : "ATL",
+          "totalFourthDownsAttempted" : 8,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 12,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 91,
+          "totalPenaltyYards" : 744,
+          "totalPlaysFromScrimmage" : 1038,
+          "totalPointsScored" : 417,
+          "totalThirdDownsAttempted" : 203,
+          "totalThirdDownsMade" : 95
+        },
+        "BAL" : {
+          "avgPointsPerGame" : 18.9,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 20,
+          "rank" : 25,
+          "teamName" : "BAL",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 110,
+          "totalPenaltyYards" : 1007,
+          "totalPlaysFromScrimmage" : 1034,
+          "totalPointsScored" : 302,
+          "totalThirdDownsAttempted" : 221,
+          "totalThirdDownsMade" : 89
+        },
+        "BUF" : {
+          "avgPointsPerGame" : 18.1,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 35,
+          "rank" : 29,
+          "teamName" : "BUF",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 104,
+          "totalPenaltyYards" : 849,
+          "totalPlaysFromScrimmage" : 1027,
+          "totalPointsScored" : 289,
+          "totalThirdDownsAttempted" : 220,
+          "totalThirdDownsMade" : 73
+        },
+        "CAR" : {
+          "avgPointsPerGame" : 23.4,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 40,
+          "rank" : 23,
+          "teamName" : "CAR",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 28,
+          "totalFumblesLost" : 12,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 97,
+          "totalPenaltyYards" : 760,
+          "totalPlaysFromScrimmage" : 999,
+          "totalPointsScored" : 374,
+          "totalThirdDownsAttempted" : 210,
+          "totalThirdDownsMade" : 89
+        },
+        "CHI" : {
+          "avgPointsPerGame" : 27.6,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 6,
+          "rank" : 3,
+          "teamName" : "CHI",
+          "totalFourthDownsAttempted" : 19,
+          "totalFourthDownsMade" : 12,
+          "totalFumbles" : 25,
+          "totalFumblesLost" : 10,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 106,
+          "totalPenaltyYards" : 978,
+          "totalPlaysFromScrimmage" : 1008,
+          "totalPointsScored" : 442,
+          "totalThirdDownsAttempted" : 201,
+          "totalThirdDownsMade" : 85
+        },
+        "CIN" : {
+          "avgPointsPerGame" : 21.5,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 25,
+          "rank" : 11,
+          "teamName" : "CIN",
+          "totalFourthDownsAttempted" : 19,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 15,
+          "totalFumblesLost" : 6,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 876,
+          "totalPlaysFromScrimmage" : 1067,
+          "totalPointsScored" : 344,
+          "totalThirdDownsAttempted" : 215,
+          "totalThirdDownsMade" : 79
+        },
+        "CLE" : {
+          "avgPointsPerGame" : 21.1,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 47,
+          "rank" : 10,
+          "teamName" : "CLE",
+          "totalFourthDownsAttempted" : 18,
+          "totalFourthDownsMade" : 11,
+          "totalFumbles" : 23,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 98,
+          "totalPenaltyYards" : 769,
+          "totalPlaysFromScrimmage" : 1118,
+          "totalPointsScored" : 337,
+          "totalThirdDownsAttempted" : 239,
+          "totalThirdDownsMade" : 90
+        },
+        "DAL" : {
+          "avgPointsPerGame" : 22,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 2,
+          "rank" : 14,
+          "teamName" : "DAL",
+          "totalFourthDownsAttempted" : 20,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 13,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 104,
+          "totalPenaltyYards" : 861,
+          "totalPlaysFromScrimmage" : 978,
+          "totalPointsScored" : 352,
+          "totalThirdDownsAttempted" : 204,
+          "totalThirdDownsMade" : 89
+        },
+        "DEN" : {
+          "avgPointsPerGame" : 22.1,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 36,
+          "rank" : 30,
+          "teamName" : "DEN",
+          "totalFourthDownsAttempted" : 17,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 21,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 103,
+          "totalPenaltyYards" : 816,
+          "totalPlaysFromScrimmage" : 1031,
+          "totalPointsScored" : 354,
+          "totalThirdDownsAttempted" : 222,
+          "totalThirdDownsMade" : 81
+        },
+        "DET" : {
+          "avgPointsPerGame" : 17.6,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 19,
+          "rank" : 31,
+          "teamName" : "DET",
+          "totalFourthDownsAttempted" : 15,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 99,
+          "totalPenaltyYards" : 849,
+          "totalPlaysFromScrimmage" : 984,
+          "totalPointsScored" : 282,
+          "totalThirdDownsAttempted" : 207,
+          "totalThirdDownsMade" : 77
+        },
+        "GB" : {
+          "avgPointsPerGame" : 21.8,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 28,
+          "rank" : 18,
+          "teamName" : "GB",
+          "totalFourthDownsAttempted" : 28,
+          "totalFourthDownsMade" : 15,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 104,
+          "totalPenaltyYards" : 945,
+          "totalPlaysFromScrimmage" : 1054,
+          "totalPointsScored" : 348,
+          "totalThirdDownsAttempted" : 206,
+          "totalThirdDownsMade" : 83
+        },
+        "HOU" : {
+          "avgPointsPerGame" : 19.2,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 21,
+          "rank" : 17,
+          "teamName" : "HOU",
+          "totalFourthDownsAttempted" : 17,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 24,
+          "totalFumblesLost" : 14,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 99,
+          "totalPenaltyYards" : 786,
+          "totalPlaysFromScrimmage" : 1077,
+          "totalPointsScored" : 307,
+          "totalThirdDownsAttempted" : 218,
+          "totalThirdDownsMade" : 74
+        },
+        "IND" : {
+          "avgPointsPerGame" : 23.1,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 6,
+          "rank" : 22,
+          "teamName" : "IND",
+          "totalFourthDownsAttempted" : 17,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 29,
+          "totalFumblesLost" : 14,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 101,
+          "totalPenaltyYards" : 866,
+          "totalPlaysFromScrimmage" : 1007,
+          "totalPointsScored" : 369,
+          "totalThirdDownsAttempted" : 201,
+          "totalThirdDownsMade" : 67
+        },
+        "JAC" : {
+          "avgPointsPerGame" : 25.8,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 49,
+          "rank" : 7,
+          "teamName" : "JAC",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 14,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 115,
+          "totalPenaltyYards" : 886,
+          "totalPlaysFromScrimmage" : 1085,
+          "totalPointsScored" : 412,
+          "totalThirdDownsAttempted" : 236,
+          "totalThirdDownsMade" : 101
+        },
+        "KC" : {
+          "avgPointsPerGame" : 17.6,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 0,
+          "rank" : 26,
+          "teamName" : "KC",
+          "totalFourthDownsAttempted" : 21,
+          "totalFourthDownsMade" : 8,
+          "totalFumbles" : 17,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 107,
+          "totalPenaltyYards" : 851,
+          "totalPlaysFromScrimmage" : 1024,
+          "totalPointsScored" : 281,
+          "totalThirdDownsAttempted" : 216,
+          "totalThirdDownsMade" : 79
+        },
+        "MIA" : {
+          "avgPointsPerGame" : 23.3,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 52,
+          "rank" : 21,
+          "teamName" : "MIA",
+          "totalFourthDownsAttempted" : 22,
+          "totalFourthDownsMade" : 13,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 920,
+          "totalPlaysFromScrimmage" : 1029,
+          "totalPointsScored" : 373,
+          "totalThirdDownsAttempted" : 223,
+          "totalThirdDownsMade" : 98
+        },
+        "MIN" : {
+          "avgPointsPerGame" : 21.4,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 26,
+          "rank" : 19,
+          "teamName" : "MIN",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 9,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 6,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 112,
+          "totalPenaltyYards" : 938,
+          "totalPlaysFromScrimmage" : 1025,
+          "totalPointsScored" : 343,
+          "totalThirdDownsAttempted" : 217,
+          "totalThirdDownsMade" : 90
+        },
+        "NE" : {
+          "avgPointsPerGame" : 19.6,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 23,
+          "rank" : 20,
+          "teamName" : "NE",
+          "totalFourthDownsAttempted" : 23,
+          "totalFourthDownsMade" : 8,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 92,
+          "totalPenaltyYards" : 752,
+          "totalPlaysFromScrimmage" : 1033,
+          "totalPointsScored" : 313,
+          "totalThirdDownsAttempted" : 209,
+          "totalThirdDownsMade" : 84
+        },
+        "NO" : {
+          "avgPointsPerGame" : 26.5,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 29,
+          "rank" : 2,
+          "teamName" : "NO",
+          "totalFourthDownsAttempted" : 8,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 15,
+          "totalFumblesLost" : 5,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 889,
+          "totalPlaysFromScrimmage" : 1022,
+          "totalPointsScored" : 424,
+          "totalThirdDownsAttempted" : 215,
+          "totalThirdDownsMade" : 99
+        },
+        "NYG" : {
+          "avgPointsPerGame" : 25,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 16,
+          "rank" : 4,
+          "teamName" : "NYG",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 24,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 948,
+          "totalPlaysFromScrimmage" : 1007,
+          "totalPointsScored" : 400,
+          "totalThirdDownsAttempted" : 200,
+          "totalThirdDownsMade" : 72
+        },
+        "NYJ" : {
+          "avgPointsPerGame" : 25.1,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 16,
+          "rank" : 27,
+          "teamName" : "NYJ",
+          "totalFourthDownsAttempted" : 4,
+          "totalFourthDownsMade" : 0,
+          "totalFumbles" : 17,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 91,
+          "totalPenaltyYards" : 780,
+          "totalPlaysFromScrimmage" : 976,
+          "totalPointsScored" : 401,
+          "totalThirdDownsAttempted" : 219,
+          "totalThirdDownsMade" : 99
+        },
+        "OAK" : {
+          "avgPointsPerGame" : 28.2,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 40,
+          "rank" : 12,
+          "teamName" : "OAK",
+          "totalFourthDownsAttempted" : 9,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 5,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 116,
+          "totalPenaltyYards" : 941,
+          "totalPlaysFromScrimmage" : 1041,
+          "totalPointsScored" : 452,
+          "totalThirdDownsAttempted" : 221,
+          "totalThirdDownsMade" : 85
+        },
+        "PHI" : {
+          "avgPointsPerGame" : 25,
+          "avgTimeOfPosessionMinutes" : 33,
+          "avgTimeOfPosessionSeconds" : 20,
+          "rank" : 5,
+          "teamName" : "PHI",
+          "totalFourthDownsAttempted" : 12,
+          "totalFourthDownsMade" : 3,
+          "totalFumbles" : 27,
+          "totalFumblesLost" : 16,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 121,
+          "totalPenaltyYards" : 1089,
+          "totalPlaysFromScrimmage" : 1113,
+          "totalPointsScored" : 400,
+          "totalThirdDownsAttempted" : 232,
+          "totalThirdDownsMade" : 88
+        },
+        "PIT" : {
+          "avgPointsPerGame" : 23,
+          "avgTimeOfPosessionMinutes" : 27,
+          "avgTimeOfPosessionSeconds" : 36,
+          "rank" : 15,
+          "teamName" : "PIT",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 10,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 97,
+          "totalPenaltyYards" : 835,
+          "totalPlaysFromScrimmage" : 944,
+          "totalPointsScored" : 368,
+          "totalThirdDownsAttempted" : 189,
+          "totalThirdDownsMade" : 71
+        },
+        "SD" : {
+          "avgPointsPerGame" : 21.8,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 20,
+          "rank" : 24,
+          "teamName" : "SD",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 2,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 129,
+          "totalPenaltyYards" : 1067,
+          "totalPlaysFromScrimmage" : 988,
+          "totalPointsScored" : 348,
+          "totalThirdDownsAttempted" : 207,
+          "totalThirdDownsMade" : 89
+        },
+        "SEA" : {
+          "avgPointsPerGame" : 15.9,
+          "avgTimeOfPosessionMinutes" : 27,
+          "avgTimeOfPosessionSeconds" : 59,
+          "rank" : 32,
+          "teamName" : "SEA",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 8,
+          "totalFumbles" : 30,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 70,
+          "totalPenaltyYards" : 613,
+          "totalPlaysFromScrimmage" : 924,
+          "totalPointsScored" : 254,
+          "totalThirdDownsAttempted" : 202,
+          "totalThirdDownsMade" : 75
+        },
+        "SF" : {
+          "avgPointsPerGame" : 21.2,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 11,
+          "rank" : 28,
+          "teamName" : "SF",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 18,
+          "totalFumblesLost" : 6,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 122,
+          "totalPenaltyYards" : 909,
+          "totalPlaysFromScrimmage" : 989,
+          "totalPointsScored" : 340,
+          "totalThirdDownsAttempted" : 203,
+          "totalThirdDownsMade" : 88
+        },
+        "STL" : {
+          "avgPointsPerGame" : 22.1,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 47,
+          "rank" : 16,
+          "teamName" : "STL",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 0,
+          "totalFumbles" : 26,
+          "totalFumblesLost" : 12,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 882,
+          "totalPlaysFromScrimmage" : 1005,
+          "totalPointsScored" : 354,
+          "totalThirdDownsAttempted" : 213,
+          "totalThirdDownsMade" : 82
+        },
+        "TB" : {
+          "avgPointsPerGame" : 25.6,
+          "avgTimeOfPosessionMinutes" : 33,
+          "avgTimeOfPosessionSeconds" : 5,
+          "rank" : 8,
+          "teamName" : "TB",
+          "totalFourthDownsAttempted" : 9,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 25,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 106,
+          "totalPenaltyYards" : 935,
+          "totalPlaysFromScrimmage" : 1067,
+          "totalPointsScored" : 410,
+          "totalThirdDownsAttempted" : 213,
+          "totalThirdDownsMade" : 93
+        },
+        "TEN" : {
+          "avgPointsPerGame" : 27.4,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 29,
+          "rank" : 6,
+          "teamName" : "TEN",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 7,
+          "totalFumblesLost" : 4,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 93,
+          "totalPenaltyYards" : 731,
+          "totalPlaysFromScrimmage" : 1099,
+          "totalPointsScored" : 438,
+          "totalThirdDownsAttempted" : 227,
+          "totalThirdDownsMade" : 94
+        },
+        "WAS" : {
+          "avgPointsPerGame" : 27.4,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 39,
+          "rank" : 13,
+          "teamName" : "WAS",
+          "totalFourthDownsAttempted" : 9,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 26,
+          "totalFumblesLost" : 12,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 144,
+          "totalPenaltyYards" : 1164,
+          "totalPlaysFromScrimmage" : 976,
+          "totalPointsScored" : 438,
+          "totalThirdDownsAttempted" : 207,
+          "totalThirdDownsMade" : 89
+        }
+      },
+      "offense" : {
+        "ARI" : {
+          "avgFirstDownsGainedPerGame" : 18.9,
+          "avgOverallYardsGainedPerGame" : 319.8,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 19.4,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 48,
+          "rank" : 24,
+          "teamName" : "ARI",
+          "totalFourthDownsAttempted" : 4,
+          "totalFourthDownsMade" : 3,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 5,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 91,
+          "totalPenaltyYards" : 707,
+          "totalPlaysFromScrimmage" : 993,
+          "totalPointsScored" : 310,
+          "totalThirdDownsAttempted" : 224,
+          "totalThirdDownsMade" : 90,
+          "totalTurnovers" : 8
+        },
+        "ATL" : {
+          "avgFirstDownsGainedPerGame" : 20.6,
+          "avgOverallYardsGainedPerGame" : 378.2,
+          "avgOverallYardsGainedPerPlay" : 5.8,
+          "avgPointsPerGame" : 23.8,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 28,
+          "rank" : 8,
+          "teamName" : "ATL",
+          "totalFourthDownsAttempted" : 16,
+          "totalFourthDownsMade" : 8,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 97,
+          "totalPenaltyYards" : 840,
+          "totalPlaysFromScrimmage" : 1035,
+          "totalPointsScored" : 381,
+          "totalThirdDownsAttempted" : 210,
+          "totalThirdDownsMade" : 93,
+          "totalTurnovers" : 5
+        },
+        "BAL" : {
+          "avgFirstDownsGainedPerGame" : 21.6,
+          "avgOverallYardsGainedPerGame" : 364.9,
+          "avgOverallYardsGainedPerPlay" : 5.7,
+          "avgPointsPerGame" : 25.6,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 40,
+          "rank" : 12,
+          "teamName" : "BAL",
+          "totalFourthDownsAttempted" : 18,
+          "totalFourthDownsMade" : 9,
+          "totalFumbles" : 17,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 111,
+          "totalPenaltyYards" : 870,
+          "totalPlaysFromScrimmage" : 1021,
+          "totalPointsScored" : 409,
+          "totalThirdDownsAttempted" : 205,
+          "totalThirdDownsMade" : 84,
+          "totalTurnovers" : 2
+        },
+        "BUF" : {
+          "avgFirstDownsGainedPerGame" : 17.1,
+          "avgOverallYardsGainedPerGame" : 318.5,
+          "avgOverallYardsGainedPerPlay" : 5,
+          "avgPointsPerGame" : 21.4,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 45,
+          "rank" : 26,
+          "teamName" : "BUF",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 10,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 124,
+          "totalPenaltyYards" : 1031,
+          "totalPlaysFromScrimmage" : 1020,
+          "totalPointsScored" : 343,
+          "totalThirdDownsAttempted" : 229,
+          "totalThirdDownsMade" : 84,
+          "totalTurnovers" : 7
+        },
+        "CAR" : {
+          "avgFirstDownsGainedPerGame" : 21.7,
+          "avgOverallYardsGainedPerGame" : 346.7,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 21.2,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 17,
+          "rank" : 16,
+          "teamName" : "CAR",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 25,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 83,
+          "totalPenaltyYards" : 756,
+          "totalPlaysFromScrimmage" : 1060,
+          "totalPointsScored" : 339,
+          "totalThirdDownsAttempted" : 222,
+          "totalThirdDownsMade" : 93,
+          "totalTurnovers" : 3
+        },
+        "CHI" : {
+          "avgFirstDownsGainedPerGame" : 20.1,
+          "avgOverallYardsGainedPerGame" : 327.1,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 19.9,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 13,
+          "rank" : 21,
+          "teamName" : "CHI",
+          "totalFourthDownsAttempted" : 28,
+          "totalFourthDownsMade" : 13,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 10,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 113,
+          "totalPenaltyYards" : 997,
+          "totalPlaysFromScrimmage" : 1005,
+          "totalPointsScored" : 319,
+          "totalThirdDownsAttempted" : 207,
+          "totalThirdDownsMade" : 78,
+          "totalTurnovers" : -5
+        },
+        "CIN" : {
+          "avgFirstDownsGainedPerGame" : 19.6,
+          "avgOverallYardsGainedPerGame" : 348,
+          "avgOverallYardsGainedPerPlay" : 5.5,
+          "avgPointsPerGame" : 22.8,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 32,
+          "rank" : 15,
+          "teamName" : "CIN",
+          "totalFourthDownsAttempted" : 13,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 20,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 102,
+          "totalPenaltyYards" : 812,
+          "totalPlaysFromScrimmage" : 1018,
+          "totalPointsScored" : 365,
+          "totalThirdDownsAttempted" : 211,
+          "totalThirdDownsMade" : 84,
+          "totalTurnovers" : 0
+        },
+        "CLE" : {
+          "avgFirstDownsGainedPerGame" : 18.4,
+          "avgOverallYardsGainedPerGame" : 324.6,
+          "avgOverallYardsGainedPerPlay" : 5.1,
+          "avgPointsPerGame" : 18.7,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 13,
+          "rank" : 23,
+          "teamName" : "CLE",
+          "totalFourthDownsAttempted" : 14,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 116,
+          "totalPenaltyYards" : 932,
+          "totalPlaysFromScrimmage" : 1010,
+          "totalPointsScored" : 299,
+          "totalThirdDownsAttempted" : 207,
+          "totalThirdDownsMade" : 61,
+          "totalTurnovers" : 6
+        },
+        "DAL" : {
+          "avgFirstDownsGainedPerGame" : 21.4,
+          "avgOverallYardsGainedPerGame" : 383.6,
+          "avgOverallYardsGainedPerPlay" : 6.1,
+          "avgPointsPerGame" : 29.2,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 51,
+          "rank" : 7,
+          "teamName" : "DAL",
+          "totalFourthDownsAttempted" : 6,
+          "totalFourthDownsMade" : 3,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 14,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 839,
+          "totalPlaysFromScrimmage" : 1014,
+          "totalPointsScored" : 467,
+          "totalThirdDownsAttempted" : 201,
+          "totalThirdDownsMade" : 95,
+          "totalTurnovers" : 6
+        },
+        "DEN" : {
+          "avgFirstDownsGainedPerGame" : 22.5,
+          "avgOverallYardsGainedPerGame" : 402.9,
+          "avgOverallYardsGainedPerPlay" : 6,
+          "avgPointsPerGame" : 30.1,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 46,
+          "rank" : 4,
+          "teamName" : "DEN",
+          "totalFourthDownsAttempted" : 13,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 5,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 120,
+          "totalPenaltyYards" : 1045,
+          "totalPlaysFromScrimmage" : 1067,
+          "totalPointsScored" : 482,
+          "totalThirdDownsAttempted" : 213,
+          "totalThirdDownsMade" : 94,
+          "totalTurnovers" : 5
+        },
+        "DET" : {
+          "avgFirstDownsGainedPerGame" : 19.4,
+          "avgOverallYardsGainedPerGame" : 340.8,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 20.1,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 41,
+          "rank" : 19,
+          "teamName" : "DET",
+          "totalFourthDownsAttempted" : 20,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 21,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 118,
+          "totalPenaltyYards" : 989,
+          "totalPlaysFromScrimmage" : 1045,
+          "totalPointsScored" : 321,
+          "totalThirdDownsAttempted" : 223,
+          "totalThirdDownsMade" : 86,
+          "totalTurnovers" : 7
+        },
+        "GB" : {
+          "avgFirstDownsGainedPerGame" : 22.2,
+          "avgOverallYardsGainedPerGame" : 386.1,
+          "avgOverallYardsGainedPerPlay" : 6.2,
+          "avgPointsPerGame" : 30.4,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 32,
+          "rank" : 6,
+          "teamName" : "GB",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 92,
+          "totalPenaltyYards" : 775,
+          "totalPlaysFromScrimmage" : 1001,
+          "totalPointsScored" : 486,
+          "totalThirdDownsAttempted" : 197,
+          "totalThirdDownsMade" : 93,
+          "totalTurnovers" : 14
+        },
+        "HOU" : {
+          "avgFirstDownsGainedPerGame" : 19.6,
+          "avgOverallYardsGainedPerGame" : 344.6,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 23.2,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 7,
+          "rank" : 17,
+          "teamName" : "HOU",
+          "totalFourthDownsAttempted" : 17,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 19,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 94,
+          "totalPenaltyYards" : 834,
+          "totalPlaysFromScrimmage" : 1062,
+          "totalPointsScored" : 372,
+          "totalThirdDownsAttempted" : 235,
+          "totalThirdDownsMade" : 91,
+          "totalTurnovers" : 12
+        },
+        "IND" : {
+          "avgFirstDownsGainedPerGame" : 23.2,
+          "avgOverallYardsGainedPerGame" : 406.6,
+          "avgOverallYardsGainedPerPlay" : 5.9,
+          "avgPointsPerGame" : 28.6,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 54,
+          "rank" : 3,
+          "teamName" : "IND",
+          "totalFourthDownsAttempted" : 15,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 31,
+          "totalFumblesLost" : 15,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 105,
+          "totalPenaltyYards" : 848,
+          "totalPlaysFromScrimmage" : 1105,
+          "totalPointsScored" : 458,
+          "totalThirdDownsAttempted" : 217,
+          "totalThirdDownsMade" : 89,
+          "totalTurnovers" : -5
+        },
+        "JAC" : {
+          "avgFirstDownsGainedPerGame" : 16.9,
+          "avgOverallYardsGainedPerGame" : 289.6,
+          "avgOverallYardsGainedPerPlay" : 4.7,
+          "avgPointsPerGame" : 15.6,
+          "avgTimeOfPosessionMinutes" : 27,
+          "avgTimeOfPosessionSeconds" : 11,
+          "rank" : 31,
+          "teamName" : "JAC",
+          "totalFourthDownsAttempted" : 19,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 15,
+          "totalFumblesLost" : 8,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 73,
+          "totalPenaltyYards" : 573,
+          "totalPlaysFromScrimmage" : 988,
+          "totalPointsScored" : 249,
+          "totalThirdDownsAttempted" : 216,
+          "totalThirdDownsMade" : 69,
+          "totalTurnovers" : -6
+        },
+        "KC" : {
+          "avgFirstDownsGainedPerGame" : 19.3,
+          "avgOverallYardsGainedPerGame" : 318.8,
+          "avgOverallYardsGainedPerPlay" : 5.3,
+          "avgPointsPerGame" : 22.1,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 60,
+          "rank" : 25,
+          "teamName" : "KC",
+          "totalFourthDownsAttempted" : 12,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 88,
+          "totalPenaltyYards" : 681,
+          "totalPlaysFromScrimmage" : 962,
+          "totalPointsScored" : 353,
+          "totalThirdDownsAttempted" : 201,
+          "totalThirdDownsMade" : 80,
+          "totalTurnovers" : -3
+        },
+        "MIA" : {
+          "avgFirstDownsGainedPerGame" : 22.6,
+          "avgOverallYardsGainedPerGame" : 350.1,
+          "avgOverallYardsGainedPerPlay" : 5.4,
+          "avgPointsPerGame" : 24.2,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 8,
+          "rank" : 14,
+          "teamName" : "MIA",
+          "totalFourthDownsAttempted" : 19,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 27,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 81,
+          "totalPenaltyYards" : 635,
+          "totalPlaysFromScrimmage" : 1040,
+          "totalPointsScored" : 388,
+          "totalThirdDownsAttempted" : 200,
+          "totalThirdDownsMade" : 80,
+          "totalTurnovers" : 2
+        },
+        "MIN" : {
+          "avgFirstDownsGainedPerGame" : 18,
+          "avgOverallYardsGainedPerGame" : 315.5,
+          "avgOverallYardsGainedPerPlay" : 5.1,
+          "avgPointsPerGame" : 20.3,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 52,
+          "rank" : 27,
+          "teamName" : "MIN",
+          "totalFourthDownsAttempted" : 12,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 11,
+          "totalFumblesLost" : 2,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 100,
+          "totalPenaltyYards" : 836,
+          "totalPlaysFromScrimmage" : 981,
+          "totalPointsScored" : 325,
+          "totalThirdDownsAttempted" : 211,
+          "totalThirdDownsMade" : 82,
+          "totalTurnovers" : -1
+        },
+        "NE" : {
+          "avgFirstDownsGainedPerGame" : 22.6,
+          "avgOverallYardsGainedPerGame" : 365.5,
+          "avgOverallYardsGainedPerPlay" : 5.5,
+          "avgPointsPerGame" : 29.2,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 37,
+          "rank" : 11,
+          "teamName" : "NE",
+          "totalFourthDownsAttempted" : 13,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 13,
+          "totalFumblesLost" : 4,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 120,
+          "totalPenaltyYards" : 1080,
+          "totalPlaysFromScrimmage" : 1073,
+          "totalPointsScored" : 468,
+          "totalThirdDownsAttempted" : 221,
+          "totalThirdDownsMade" : 98,
+          "totalTurnovers" : 12
+        },
+        "NO" : {
+          "avgFirstDownsGainedPerGame" : 24.7,
+          "avgOverallYardsGainedPerGame" : 411.4,
+          "avgOverallYardsGainedPerPlay" : 6,
+          "avgPointsPerGame" : 25.1,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 35,
+          "rank" : 1,
+          "teamName" : "NO",
+          "totalFourthDownsAttempted" : 15,
+          "totalFourthDownsMade" : 8,
+          "totalFumbles" : 22,
+          "totalFumblesLost" : 13,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 80,
+          "totalPenaltyYards" : 670,
+          "totalPlaysFromScrimmage" : 1095,
+          "totalPointsScored" : 401,
+          "totalThirdDownsAttempted" : 203,
+          "totalThirdDownsMade" : 98,
+          "totalTurnovers" : -13
+        },
+        "NYG" : {
+          "avgFirstDownsGainedPerGame" : 21,
+          "avgOverallYardsGainedPerGame" : 367.2,
+          "avgOverallYardsGainedPerPlay" : 5.4,
+          "avgPointsPerGame" : 23.8,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 44,
+          "rank" : 10,
+          "teamName" : "NYG",
+          "totalFourthDownsAttempted" : 16,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 21,
+          "totalFumblesLost" : 14,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 101,
+          "totalPenaltyYards" : 896,
+          "totalPlaysFromScrimmage" : 1086,
+          "totalPointsScored" : 380,
+          "totalThirdDownsAttempted" : 235,
+          "totalThirdDownsMade" : 101,
+          "totalTurnovers" : -2
+        },
+        "NYJ" : {
+          "avgFirstDownsGainedPerGame" : 18.1,
+          "avgOverallYardsGainedPerGame" : 326.6,
+          "avgOverallYardsGainedPerPlay" : 5,
+          "avgPointsPerGame" : 17.7,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 1,
+          "rank" : 22,
+          "teamName" : "NYJ",
+          "totalFourthDownsAttempted" : 16,
+          "totalFourthDownsMade" : 9,
+          "totalFumbles" : 25,
+          "totalFumblesLost" : 9,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 109,
+          "totalPenaltyYards" : 932,
+          "totalPlaysFromScrimmage" : 1052,
+          "totalPointsScored" : 283,
+          "totalThirdDownsAttempted" : 234,
+          "totalThirdDownsMade" : 91,
+          "totalTurnovers" : -11
+        },
+        "OAK" : {
+          "avgFirstDownsGainedPerGame" : 15.5,
+          "avgOverallYardsGainedPerGame" : 282.2,
+          "avgOverallYardsGainedPerPlay" : 4.5,
+          "avgPointsPerGame" : 15.8,
+          "avgTimeOfPosessionMinutes" : 28,
+          "avgTimeOfPosessionSeconds" : 20,
+          "rank" : 32,
+          "teamName" : "OAK",
+          "totalFourthDownsAttempted" : 15,
+          "totalFourthDownsMade" : 9,
+          "totalFumbles" : 28,
+          "totalFumblesLost" : 13,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 116,
+          "totalPenaltyYards" : 939,
+          "totalPlaysFromScrimmage" : 994,
+          "totalPointsScored" : 253,
+          "totalThirdDownsAttempted" : 236,
+          "totalThirdDownsMade" : 80,
+          "totalTurnovers" : -15
+        },
+        "PHI" : {
+          "avgFirstDownsGainedPerGame" : 22.2,
+          "avgOverallYardsGainedPerGame" : 396.8,
+          "avgOverallYardsGainedPerPlay" : 5.6,
+          "avgPointsPerGame" : 29.6,
+          "avgTimeOfPosessionMinutes" : 26,
+          "avgTimeOfPosessionSeconds" : 40,
+          "rank" : 5,
+          "teamName" : "PHI",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 7,
+          "totalFumbles" : 25,
+          "totalFumblesLost" : 15,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 115,
+          "totalPenaltyYards" : 995,
+          "totalPlaysFromScrimmage" : 1127,
+          "totalPointsScored" : 474,
+          "totalThirdDownsAttempted" : 237,
+          "totalThirdDownsMade" : 103,
+          "totalTurnovers" : -8
+        },
+        "PIT" : {
+          "avgFirstDownsGainedPerGame" : 23.7,
+          "avgOverallYardsGainedPerGame" : 411.1,
+          "avgOverallYardsGainedPerPlay" : 6.2,
+          "avgPointsPerGame" : 27.2,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 24,
+          "rank" : 2,
+          "teamName" : "PIT",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 103,
+          "totalPenaltyYards" : 834,
+          "totalPlaysFromScrimmage" : 1068,
+          "totalPointsScored" : 436,
+          "totalThirdDownsAttempted" : 208,
+          "totalThirdDownsMade" : 93,
+          "totalTurnovers" : 0
+        },
+        "SD" : {
+          "avgFirstDownsGainedPerGame" : 20.4,
+          "avgOverallYardsGainedPerGame" : 341.6,
+          "avgOverallYardsGainedPerPlay" : 5.4,
+          "avgPointsPerGame" : 21.8,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 58,
+          "rank" : 18,
+          "teamName" : "SD",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 5,
+          "totalFumbles" : 16,
+          "totalFumblesLost" : 5,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 111,
+          "totalPenaltyYards" : 967,
+          "totalPlaysFromScrimmage" : 1009,
+          "totalPointsScored" : 348,
+          "totalThirdDownsAttempted" : 215,
+          "totalThirdDownsMade" : 97,
+          "totalTurnovers" : -5
+        },
+        "SEA" : {
+          "avgFirstDownsGainedPerGame" : 20.5,
+          "avgOverallYardsGainedPerGame" : 375.8,
+          "avgOverallYardsGainedPerPlay" : 5.9,
+          "avgPointsPerGame" : 24.6,
+          "avgTimeOfPosessionMinutes" : 32,
+          "avgTimeOfPosessionSeconds" : 22,
+          "rank" : 9,
+          "teamName" : "SEA",
+          "totalFourthDownsAttempted" : 11,
+          "totalFourthDownsMade" : 3,
+          "totalFumbles" : 23,
+          "totalFumblesLost" : 7,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 130,
+          "totalPenaltyYards" : 1009,
+          "totalPlaysFromScrimmage" : 1021,
+          "totalPointsScored" : 394,
+          "totalThirdDownsAttempted" : 212,
+          "totalThirdDownsMade" : 90,
+          "totalTurnovers" : 10
+        },
+        "SF" : {
+          "avgFirstDownsGainedPerGame" : 18.9,
+          "avgOverallYardsGainedPerGame" : 327.4,
+          "avgOverallYardsGainedPerPlay" : 5.2,
+          "avgPointsPerGame" : 19.1,
+          "avgTimeOfPosessionMinutes" : 31,
+          "avgTimeOfPosessionSeconds" : 44,
+          "rank" : 20,
+          "teamName" : "SF",
+          "totalFourthDownsAttempted" : 18,
+          "totalFourthDownsMade" : 10,
+          "totalFumbles" : 18,
+          "totalFumblesLost" : 12,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 116,
+          "totalPenaltyYards" : 937,
+          "totalPlaysFromScrimmage" : 1009,
+          "totalPointsScored" : 306,
+          "totalThirdDownsAttempted" : 213,
+          "totalThirdDownsMade" : 86,
+          "totalTurnovers" : 7
+        },
+        "STL" : {
+          "avgFirstDownsGainedPerGame" : 18,
+          "avgOverallYardsGainedPerGame" : 314.7,
+          "avgOverallYardsGainedPerPlay" : 5.3,
+          "avgPointsPerGame" : 20.2,
+          "avgTimeOfPosessionMinutes" : 29,
+          "avgTimeOfPosessionSeconds" : 13,
+          "rank" : 28,
+          "teamName" : "STL",
+          "totalFourthDownsAttempted" : 10,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 27,
+          "totalFumblesLost" : 11,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 123,
+          "totalPenaltyYards" : 1139,
+          "totalPlaysFromScrimmage" : 957,
+          "totalPointsScored" : 324,
+          "totalThirdDownsAttempted" : 192,
+          "totalThirdDownsMade" : 68,
+          "totalTurnovers" : -2
+        },
+        "TB" : {
+          "avgFirstDownsGainedPerGame" : 16.4,
+          "avgOverallYardsGainedPerGame" : 292,
+          "avgOverallYardsGainedPerPlay" : 5,
+          "avgPointsPerGame" : 17.3,
+          "avgTimeOfPosessionMinutes" : 27,
+          "avgTimeOfPosessionSeconds" : 17,
+          "rank" : 30,
+          "teamName" : "TB",
+          "totalFourthDownsAttempted" : 12,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 29,
+          "totalFumblesLost" : 13,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 118,
+          "totalPenaltyYards" : 939,
+          "totalPlaysFromScrimmage" : 936,
+          "totalPointsScored" : 277,
+          "totalThirdDownsAttempted" : 203,
+          "totalThirdDownsMade" : 76,
+          "totalTurnovers" : -8
+        },
+        "TEN" : {
+          "avgFirstDownsGainedPerGame" : 16.1,
+          "avgOverallYardsGainedPerGame" : 303.7,
+          "avgOverallYardsGainedPerPlay" : 5.3,
+          "avgPointsPerGame" : 15.9,
+          "avgTimeOfPosessionMinutes" : 27,
+          "avgTimeOfPosessionSeconds" : 31,
+          "rank" : 29,
+          "teamName" : "TEN",
+          "totalFourthDownsAttempted" : 17,
+          "totalFourthDownsMade" : 6,
+          "totalFumbles" : 23,
+          "totalFumblesLost" : 10,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 111,
+          "totalPenaltyYards" : 961,
+          "totalPlaysFromScrimmage" : 919,
+          "totalPointsScored" : 254,
+          "totalThirdDownsAttempted" : 196,
+          "totalThirdDownsMade" : 59,
+          "totalTurnovers" : -10
+        },
+        "WAS" : {
+          "avgFirstDownsGainedPerGame" : 19.9,
+          "avgOverallYardsGainedPerGame" : 358.6,
+          "avgOverallYardsGainedPerPlay" : 5.7,
+          "avgPointsPerGame" : 18.8,
+          "avgTimeOfPosessionMinutes" : 30,
+          "avgTimeOfPosessionSeconds" : 47,
+          "rank" : 13,
+          "teamName" : "WAS",
+          "totalFourthDownsAttempted" : 16,
+          "totalFourthDownsMade" : 4,
+          "totalFumbles" : 31,
+          "totalFumblesLost" : 13,
+          "totalGamesPlayed" : 16,
+          "totalPenalties" : 120,
+          "totalPenaltyYards" : 1130,
+          "totalPlaysFromScrimmage" : 1006,
+          "totalPointsScored" : 301,
+          "totalThirdDownsAttempted" : 197,
+          "totalThirdDownsMade" : 62,
+          "totalTurnovers" : -12
+        }
+      }
+    },
+    "2015" : {
+      "defense" : {"MIA":{"rank":8,"teamName":"MIA","totalGamesPlayed":8,"avgPointsPerGame":25.80,"totalPointsScored":206,"totalPlaysFromScrimmage":530,"totalThirdDownsMade":43,"totalThirdDownsAttempted":107,"totalFourthDownsMade":2,"totalFourthDownsAttempted":5,"totalPenalties":70,"totalPenaltyYards":622,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":9,"totalFumbles":6,"totalFumblesLost":2},"OAK":{"rank":3,"teamName":"OAK","totalGamesPlayed":8,"avgPointsPerGame":26.40,"totalPointsScored":211,"totalPlaysFromScrimmage":565,"totalThirdDownsMade":49,"totalThirdDownsAttempted":119,"totalFourthDownsMade":7,"totalFourthDownsAttempted":10,"totalPenalties":55,"totalPenaltyYards":528,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":2,"totalFumbles":8,"totalFumblesLost":5},"DAL":{"rank":18,"teamName":"DAL","totalGamesPlayed":8,"avgPointsPerGame":25.50,"totalPointsScored":204,"totalPlaysFromScrimmage":493,"totalThirdDownsMade":37,"totalThirdDownsAttempted":98,"totalFourthDownsMade":4,"totalFourthDownsAttempted":5,"totalPenalties":54,"totalPenaltyYards":425,"avgTimeOfPosessionMinutes":26,"avgTimeOfPosessionSeconds":27,"totalFumbles":2,"totalFumblesLost":1},"GB":{"rank":10,"teamName":"GB","totalGamesPlayed":8,"avgPointsPerGame":20.90,"totalPointsScored":167,"totalPlaysFromScrimmage":531,"totalThirdDownsMade":45,"totalThirdDownsAttempted":112,"totalFourthDownsMade":6,"totalFourthDownsAttempted":10,"totalPenalties":57,"totalPenaltyYards":478,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":44,"totalFumbles":9,"totalFumblesLost":2},"HOU":{"rank":19,"teamName":"HOU","totalGamesPlayed":8,"avgPointsPerGame":25.60,"totalPointsScored":205,"totalPlaysFromScrimmage":512,"totalThirdDownsMade":27,"totalThirdDownsAttempted":101,"totalFourthDownsMade":4,"totalFourthDownsAttempted":5,"totalPenalties":60,"totalPenaltyYards":507,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":59,"totalFumbles":8,"totalFumblesLost":3},"DEN":{"rank":32,"teamName":"DEN","totalGamesPlayed":8,"avgPointsPerGame":17.40,"totalPointsScored":139,"totalPlaysFromScrimmage":519,"totalThirdDownsMade":39,"totalThirdDownsAttempted":107,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":48,"totalPenaltyYards":329,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":9,"totalFumbles":14,"totalFumblesLost":8},"NO":{"rank":2,"teamName":"NO","totalGamesPlayed":9,"avgPointsPerGame":29.80,"totalPointsScored":268,"totalPlaysFromScrimmage":577,"totalThirdDownsMade":34,"totalThirdDownsAttempted":104,"totalFourthDownsMade":7,"totalFourthDownsAttempted":10,"totalPenalties":65,"totalPenaltyYards":475,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":2,"totalFumbles":15,"totalFumblesLost":9},"TEN":{"rank":27,"teamName":"TEN","totalGamesPlayed":8,"avgPointsPerGame":23.40,"totalPointsScored":187,"totalPlaysFromScrimmage":479,"totalThirdDownsMade":35,"totalThirdDownsAttempted":97,"totalFourthDownsMade":3,"totalFourthDownsAttempted":9,"totalPenalties":64,"totalPenaltyYards":580,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":53,"totalFumbles":9,"totalFumblesLost":2},"DET":{"rank":7,"teamName":"DET","totalGamesPlayed":8,"avgPointsPerGame":30.60,"totalPointsScored":245,"totalPlaysFromScrimmage":515,"totalThirdDownsMade":43,"totalThirdDownsAttempted":98,"totalFourthDownsMade":2,"totalFourthDownsAttempted":3,"totalPenalties":53,"totalPenaltyYards":458,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":15,"totalFumbles":13,"totalFumblesLost":7},"PIT":{"rank":11,"teamName":"PIT","totalGamesPlayed":9,"avgPointsPerGame":20.20,"totalPointsScored":182,"totalPlaysFromScrimmage":598,"totalThirdDownsMade":50,"totalThirdDownsAttempted":126,"totalFourthDownsMade":4,"totalFourthDownsAttempted":12,"totalPenalties":60,"totalPenaltyYards":533,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":43,"totalFumbles":16,"totalFumblesLost":7},"CHI":{"rank":24,"teamName":"CHI","totalGamesPlayed":8,"avgPointsPerGame":27.60,"totalPointsScored":221,"totalPlaysFromScrimmage":478,"totalThirdDownsMade":48,"totalThirdDownsAttempted":104,"totalFourthDownsMade":5,"totalFourthDownsAttempted":6,"totalPenalties":53,"totalPenaltyYards":456,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":34,"totalFumbles":7,"totalFumblesLost":5},"MIN":{"rank":26,"teamName":"MIN","totalGamesPlayed":8,"avgPointsPerGame":17.50,"totalPointsScored":140,"totalPlaysFromScrimmage":497,"totalThirdDownsMade":30,"totalThirdDownsAttempted":101,"totalFourthDownsMade":5,"totalFourthDownsAttempted":10,"totalPenalties":58,"totalPenaltyYards":460,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":38,"totalFumbles":8,"totalFumblesLost":5},"JAC":{"rank":15,"teamName":"JAC","totalGamesPlayed":8,"avgPointsPerGame":29.40,"totalPointsScored":235,"totalPlaysFromScrimmage":547,"totalThirdDownsMade":51,"totalThirdDownsAttempted":113,"totalFourthDownsMade":3,"totalFourthDownsAttempted":6,"totalPenalties":60,"totalPenaltyYards":478,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":28,"totalFumbles":10,"totalFumblesLost":4},"CAR":{"rank":20,"teamName":"CAR","totalGamesPlayed":8,"avgPointsPerGame":20.60,"totalPointsScored":165,"totalPlaysFromScrimmage":583,"totalThirdDownsMade":43,"totalThirdDownsAttempted":123,"totalFourthDownsMade":10,"totalFourthDownsAttempted":15,"totalPenalties":49,"totalPenaltyYards":394,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":9,"totalFumbles":10,"totalFumblesLost":5},"TB":{"rank":22,"teamName":"TB","totalGamesPlayed":8,"avgPointsPerGame":28.90,"totalPointsScored":231,"totalPlaysFromScrimmage":523,"totalThirdDownsMade":44,"totalThirdDownsAttempted":99,"totalFourthDownsMade":4,"totalFourthDownsAttempted":6,"totalPenalties":53,"totalPenaltyYards":478,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":54,"totalFumbles":18,"totalFumblesLost":9},"KC":{"rank":16,"teamName":"KC","totalGamesPlayed":8,"avgPointsPerGame":22.80,"totalPointsScored":182,"totalPlaysFromScrimmage":515,"totalThirdDownsMade":35,"totalThirdDownsAttempted":104,"totalFourthDownsMade":3,"totalFourthDownsAttempted":9,"totalPenalties":57,"totalPenaltyYards":482,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":3,"totalFumbles":7,"totalFumblesLost":3},"SD":{"rank":13,"teamName":"SD","totalGamesPlayed":9,"avgPointsPerGame":27.70,"totalPointsScored":249,"totalPlaysFromScrimmage":528,"totalThirdDownsMade":41,"totalThirdDownsAttempted":104,"totalFourthDownsMade":1,"totalFourthDownsAttempted":1,"totalPenalties":67,"totalPenaltyYards":607,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":21,"totalFumbles":7,"totalFumblesLost":4},"SF":{"rank":6,"teamName":"SF","totalGamesPlayed":9,"avgPointsPerGame":24.80,"totalPointsScored":223,"totalPlaysFromScrimmage":589,"totalThirdDownsMade":42,"totalThirdDownsAttempted":114,"totalFourthDownsMade":5,"totalFourthDownsAttempted":7,"totalPenalties":57,"totalPenaltyYards":458,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":16,"totalFumbles":4,"totalFumblesLost":1},"BAL":{"rank":9,"teamName":"BAL","totalGamesPlayed":8,"avgPointsPerGame":26.80,"totalPointsScored":214,"totalPlaysFromScrimmage":521,"totalThirdDownsMade":56,"totalThirdDownsAttempted":117,"totalFourthDownsMade":1,"totalFourthDownsAttempted":4,"totalPenalties":60,"totalPenaltyYards":443,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":52,"totalFumbles":7,"totalFumblesLost":1},"IND":{"rank":5,"teamName":"IND","totalGamesPlayed":9,"avgPointsPerGame":25.20,"totalPointsScored":227,"totalPlaysFromScrimmage":611,"totalThirdDownsMade":50,"totalThirdDownsAttempted":132,"totalFourthDownsMade":6,"totalFourthDownsAttempted":6,"totalPenalties":85,"totalPenaltyYards":758,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":54,"totalFumbles":9,"totalFumblesLost":2},"BUF":{"rank":17,"teamName":"BUF","totalGamesPlayed":8,"avgPointsPerGame":23.80,"totalPointsScored":190,"totalPlaysFromScrimmage":527,"totalThirdDownsMade":39,"totalThirdDownsAttempted":101,"totalFourthDownsMade":2,"totalFourthDownsAttempted":9,"totalPenalties":63,"totalPenaltyYards":511,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":5,"totalFumbles":11,"totalFumblesLost":4},"ARI":{"rank":30,"teamName":"ARI","totalGamesPlayed":8,"avgPointsPerGame":19.10,"totalPointsScored":153,"totalPlaysFromScrimmage":495,"totalThirdDownsMade":43,"totalThirdDownsAttempted":113,"totalFourthDownsMade":1,"totalFourthDownsAttempted":5,"totalPenalties":65,"totalPenaltyYards":586,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":22,"totalFumbles":12,"totalFumblesLost":4},"CLE":{"rank":4,"teamName":"CLE","totalGamesPlayed":9,"avgPointsPerGame":27.40,"totalPointsScored":247,"totalPlaysFromScrimmage":599,"totalThirdDownsMade":54,"totalThirdDownsAttempted":125,"totalFourthDownsMade":4,"totalFourthDownsAttempted":5,"totalPenalties":67,"totalPenaltyYards":530,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":23,"totalFumbles":12,"totalFumblesLost":8},"WAS":{"rank":12,"teamName":"WAS","totalGamesPlayed":8,"avgPointsPerGame":24.40,"totalPointsScored":195,"totalPlaysFromScrimmage":495,"totalThirdDownsMade":44,"totalThirdDownsAttempted":105,"totalFourthDownsMade":5,"totalFourthDownsAttempted":8,"totalPenalties":58,"totalPenaltyYards":510,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":50,"totalFumbles":16,"totalFumblesLost":8},"NYG":{"rank":1,"teamName":"NYG","totalGamesPlayed":9,"avgPointsPerGame":25.10,"totalPointsScored":226,"totalPlaysFromScrimmage":620,"totalThirdDownsMade":59,"totalThirdDownsAttempted":124,"totalFourthDownsMade":4,"totalFourthDownsAttempted":8,"totalPenalties":74,"totalPenaltyYards":611,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":28,"totalFumbles":19,"totalFumblesLost":8},"ATL":{"rank":23,"teamName":"ATL","totalGamesPlayed":9,"avgPointsPerGame":21.10,"totalPointsScored":190,"totalPlaysFromScrimmage":565,"totalThirdDownsMade":46,"totalThirdDownsAttempted":114,"totalFourthDownsMade":5,"totalFourthDownsAttempted":11,"totalPenalties":52,"totalPenaltyYards":373,"avgTimeOfPosessionMinutes":27,"avgTimeOfPosessionSeconds":23,"totalFumbles":8,"totalFumblesLost":4},"NYJ":{"rank":29,"teamName":"NYJ","totalGamesPlayed":8,"avgPointsPerGame":20.20,"totalPointsScored":162,"totalPlaysFromScrimmage":503,"totalThirdDownsMade":42,"totalThirdDownsAttempted":113,"totalFourthDownsMade":3,"totalFourthDownsAttempted":9,"totalPenalties":54,"totalPenaltyYards":438,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":6,"totalFumbles":12,"totalFumblesLost":9},"SEA":{"rank":31,"teamName":"SEA","totalGamesPlayed":8,"avgPointsPerGame":17.50,"totalPointsScored":140,"totalPlaysFromScrimmage":471,"totalThirdDownsMade":31,"totalThirdDownsAttempted":99,"totalFourthDownsMade":1,"totalFourthDownsAttempted":3,"totalPenalties":41,"totalPenaltyYards":290,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":18,"totalFumbles":11,"totalFumblesLost":6},"STL":{"rank":28,"teamName":"STL","totalGamesPlayed":8,"avgPointsPerGame":18.20,"totalPointsScored":146,"totalPlaysFromScrimmage":525,"totalThirdDownsMade":37,"totalThirdDownsAttempted":113,"totalFourthDownsMade":2,"totalFourthDownsAttempted":7,"totalPenalties":58,"totalPenaltyYards":507,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":59,"totalFumbles":12,"totalFumblesLost":8},"CIN":{"rank":21,"teamName":"CIN","totalGamesPlayed":8,"avgPointsPerGame":17.80,"totalPointsScored":142,"totalPlaysFromScrimmage":501,"totalThirdDownsMade":38,"totalThirdDownsAttempted":105,"totalFourthDownsMade":6,"totalFourthDownsAttempted":10,"totalPenalties":65,"totalPenaltyYards":582,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":53,"totalFumbles":6,"totalFumblesLost":4},"PHI":{"rank":14,"teamName":"PHI","totalGamesPlayed":8,"avgPointsPerGame":20.50,"totalPointsScored":164,"totalPlaysFromScrimmage":556,"totalThirdDownsMade":46,"totalThirdDownsAttempted":114,"totalFourthDownsMade":3,"totalFourthDownsAttempted":4,"totalPenalties":73,"totalPenaltyYards":635,"avgTimeOfPosessionMinutes":33,"avgTimeOfPosessionSeconds":57,"totalFumbles":13,"totalFumblesLost":8},"NE":{"rank":25,"teamName":"NE","totalGamesPlayed":8,"avgPointsPerGame":17.90,"totalPointsScored":143,"totalPlaysFromScrimmage":515,"totalThirdDownsMade":45,"totalThirdDownsAttempted":109,"totalFourthDownsMade":6,"totalFourthDownsAttempted":12,"totalPenalties":62,"totalPenaltyYards":580,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":34,"totalFumbles":10,"totalFumblesLost":3}}
+      ,
+      "offense" : {"MIA":{"rank":13,"teamName":"MIA","totalGamesPlayed":8,"avgPointsPerGame":21.40,"totalPointsScored":171,"totalPlaysFromScrimmage":492,"avgOverallYardsGainedPerGame":357.90,"avgOverallYardsGainedPerPlay":5.80,"avgFirstDownsGainedPerGame":21.00,"totalThirdDownsMade":26,"totalThirdDownsAttempted":90,"totalFourthDownsMade":2,"totalFourthDownsAttempted":12,"totalPenalties":66,"totalPenaltyYards":518,"avgTimeOfPosessionMinutes":27,"avgTimeOfPosessionSeconds":51,"totalFumbles":11,"totalFumblesLost":3,"totalTurnovers":-4},"OAK":{"rank":8,"teamName":"OAK","totalGamesPlayed":8,"avgPointsPerGame":26.60,"totalPointsScored":213,"totalPlaysFromScrimmage":502,"avgOverallYardsGainedPerGame":374.60,"avgOverallYardsGainedPerPlay":6.00,"avgFirstDownsGainedPerGame":20.20,"totalThirdDownsMade":46,"totalThirdDownsAttempted":105,"totalFourthDownsMade":3,"totalFourthDownsAttempted":5,"totalPenalties":67,"totalPenaltyYards":529,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":58,"totalFumbles":12,"totalFumblesLost":8,"totalTurnovers":1},"DAL":{"rank":17,"teamName":"DAL","totalGamesPlayed":8,"avgPointsPerGame":20.00,"totalPointsScored":160,"totalPlaysFromScrimmage":507,"avgOverallYardsGainedPerGame":354.10,"avgOverallYardsGainedPerPlay":5.60,"avgFirstDownsGainedPerGame":22.00,"totalThirdDownsMade":36,"totalThirdDownsAttempted":96,"totalFourthDownsMade":5,"totalFourthDownsAttempted":9,"totalPenalties":59,"totalPenaltyYards":432,"avgTimeOfPosessionMinutes":34,"avgTimeOfPosessionSeconds":5,"totalFumbles":10,"totalFumblesLost":5,"totalTurnovers":-9},"GB":{"rank":25,"teamName":"GB","totalGamesPlayed":8,"avgPointsPerGame":25.40,"totalPointsScored":203,"totalPlaysFromScrimmage":479,"avgOverallYardsGainedPerGame":340.90,"avgOverallYardsGainedPerPlay":5.70,"avgFirstDownsGainedPerGame":19.00,"totalThirdDownsMade":31,"totalThirdDownsAttempted":91,"totalFourthDownsMade":5,"totalFourthDownsAttempted":8,"totalPenalties":58,"totalPenaltyYards":482,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":16,"totalFumbles":9,"totalFumblesLost":3,"totalTurnovers":6},"HOU":{"rank":9,"teamName":"HOU","totalGamesPlayed":8,"avgPointsPerGame":21.80,"totalPointsScored":174,"totalPlaysFromScrimmage":593,"avgOverallYardsGainedPerGame":369.40,"avgOverallYardsGainedPerPlay":5.00,"avgFirstDownsGainedPerGame":23.10,"totalThirdDownsMade":48,"totalThirdDownsAttempted":126,"totalFourthDownsMade":4,"totalFourthDownsAttempted":12,"totalPenalties":60,"totalPenaltyYards":506,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":1,"totalFumbles":12,"totalFumblesLost":4,"totalTurnovers":-2},"DEN":{"rank":23,"teamName":"DEN","totalGamesPlayed":8,"avgPointsPerGame":24.00,"totalPointsScored":192,"totalPlaysFromScrimmage":504,"avgOverallYardsGainedPerGame":345.50,"avgOverallYardsGainedPerPlay":5.50,"avgFirstDownsGainedPerGame":18.80,"totalThirdDownsMade":38,"totalThirdDownsAttempted":110,"totalFourthDownsMade":3,"totalFourthDownsAttempted":4,"totalPenalties":66,"totalPenaltyYards":597,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":6,"totalFumbles":2,"totalFumblesLost":1,"totalTurnovers":3},"NO":{"rank":1,"teamName":"NO","totalGamesPlayed":9,"avgPointsPerGame":26.80,"totalPointsScored":241,"totalPlaysFromScrimmage":641,"avgOverallYardsGainedPerGame":421.70,"avgOverallYardsGainedPerPlay":5.90,"avgFirstDownsGainedPerGame":24.90,"totalThirdDownsMade":63,"totalThirdDownsAttempted":131,"totalFourthDownsMade":7,"totalFourthDownsAttempted":8,"totalPenalties":75,"totalPenaltyYards":668,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":34,"totalFumbles":12,"totalFumblesLost":7,"totalTurnovers":-2},"TEN":{"rank":28,"teamName":"TEN","totalGamesPlayed":8,"avgPointsPerGame":19.90,"totalPointsScored":159,"totalPlaysFromScrimmage":501,"avgOverallYardsGainedPerGame":331.50,"avgOverallYardsGainedPerPlay":5.30,"avgFirstDownsGainedPerGame":20.40,"totalThirdDownsMade":29,"totalThirdDownsAttempted":95,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":59,"totalPenaltyYards":475,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":45,"totalFumbles":13,"totalFumblesLost":9,"totalTurnovers":-6},"DET":{"rank":26,"teamName":"DET","totalGamesPlayed":8,"avgPointsPerGame":18.60,"totalPointsScored":149,"totalPlaysFromScrimmage":511,"avgOverallYardsGainedPerGame":337.80,"avgOverallYardsGainedPerPlay":5.30,"avgFirstDownsGainedPerGame":20.00,"totalThirdDownsMade":36,"totalThirdDownsAttempted":104,"totalFourthDownsMade":4,"totalFourthDownsAttempted":9,"totalPenalties":55,"totalPenaltyYards":474,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":19,"totalFumbles":12,"totalFumblesLost":8,"totalTurnovers":-9},"PIT":{"rank":7,"teamName":"PIT","totalGamesPlayed":9,"avgPointsPerGame":22.90,"totalPointsScored":206,"totalPlaysFromScrimmage":550,"avgOverallYardsGainedPerGame":376.70,"avgOverallYardsGainedPerPlay":6.20,"avgFirstDownsGainedPerGame":19.10,"totalThirdDownsMade":40,"totalThirdDownsAttempted":114,"totalFourthDownsMade":4,"totalFourthDownsAttempted":8,"totalPenalties":53,"totalPenaltyYards":490,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":23,"totalFumbles":5,"totalFumblesLost":2,"totalTurnovers":4},"CHI":{"rank":22,"teamName":"CHI","totalGamesPlayed":8,"avgPointsPerGame":20.20,"totalPointsScored":162,"totalPlaysFromScrimmage":529,"avgOverallYardsGainedPerGame":347.10,"avgOverallYardsGainedPerPlay":5.20,"avgFirstDownsGainedPerGame":20.10,"totalThirdDownsMade":50,"totalThirdDownsAttempted":114,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":58,"totalPenaltyYards":540,"avgTimeOfPosessionMinutes":32,"avgTimeOfPosessionSeconds":0,"totalFumbles":12,"totalFumblesLost":4,"totalTurnovers":-1},"MIN":{"rank":30,"teamName":"MIN","totalGamesPlayed":8,"avgPointsPerGame":21.00,"totalPointsScored":168,"totalPlaysFromScrimmage":500,"avgOverallYardsGainedPerGame":321.60,"avgOverallYardsGainedPerPlay":5.10,"avgFirstDownsGainedPerGame":19.10,"totalThirdDownsMade":36,"totalThirdDownsAttempted":103,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":45,"totalPenaltyYards":407,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":4,"totalFumbles":11,"totalFumblesLost":3,"totalTurnovers":0},"CAR":{"rank":12,"teamName":"CAR","totalGamesPlayed":8,"avgPointsPerGame":28.50,"totalPointsScored":228,"totalPlaysFromScrimmage":528,"avgOverallYardsGainedPerGame":358.90,"avgOverallYardsGainedPerPlay":5.40,"avgFirstDownsGainedPerGame":20.80,"totalThirdDownsMade":35,"totalThirdDownsAttempted":103,"totalFourthDownsMade":4,"totalFourthDownsAttempted":5,"totalPenalties":50,"totalPenaltyYards":415,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":3,"totalFumbles":4,"totalFumblesLost":3,"totalTurnovers":6},"JAC":{"rank":16,"teamName":"JAC","totalGamesPlayed":8,"avgPointsPerGame":21.20,"totalPointsScored":170,"totalPlaysFromScrimmage":527,"avgOverallYardsGainedPerGame":354.40,"avgOverallYardsGainedPerPlay":5.40,"avgFirstDownsGainedPerGame":19.50,"totalThirdDownsMade":40,"totalThirdDownsAttempted":109,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":56,"totalPenaltyYards":496,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":50,"totalFumbles":11,"totalFumblesLost":4,"totalTurnovers":-7},"TB":{"rank":15,"teamName":"TB","totalGamesPlayed":8,"avgPointsPerGame":22.60,"totalPointsScored":181,"totalPlaysFromScrimmage":496,"avgOverallYardsGainedPerGame":357.00,"avgOverallYardsGainedPerPlay":5.80,"avgFirstDownsGainedPerGame":19.20,"totalThirdDownsMade":41,"totalThirdDownsAttempted":105,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":81,"totalPenaltyYards":655,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":16,"totalFumbles":13,"totalFumblesLost":7,"totalTurnovers":1},"KC":{"rank":24,"teamName":"KC","totalGamesPlayed":8,"avgPointsPerGame":24.40,"totalPointsScored":195,"totalPlaysFromScrimmage":504,"avgOverallYardsGainedPerGame":345.40,"avgOverallYardsGainedPerPlay":5.50,"avgFirstDownsGainedPerGame":20.00,"totalThirdDownsMade":37,"totalThirdDownsAttempted":101,"totalFourthDownsMade":2,"totalFourthDownsAttempted":4,"totalPenalties":45,"totalPenaltyYards":399,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":57,"totalFumbles":9,"totalFumblesLost":5,"totalTurnovers":3},"SD":{"rank":4,"teamName":"SD","totalGamesPlayed":9,"avgPointsPerGame":23.30,"totalPointsScored":210,"totalPlaysFromScrimmage":628,"avgOverallYardsGainedPerGame":413.90,"avgOverallYardsGainedPerPlay":5.90,"avgFirstDownsGainedPerGame":24.00,"totalThirdDownsMade":56,"totalThirdDownsAttempted":124,"totalFourthDownsMade":1,"totalFourthDownsAttempted":5,"totalPenalties":65,"totalPenaltyYards":545,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":39,"totalFumbles":11,"totalFumblesLost":7,"totalTurnovers":-5},"SF":{"rank":32,"teamName":"SF","totalGamesPlayed":9,"avgPointsPerGame":14.00,"totalPointsScored":126,"totalPlaysFromScrimmage":541,"avgOverallYardsGainedPerGame":286.20,"avgOverallYardsGainedPerPlay":4.80,"avgFirstDownsGainedPerGame":16.00,"totalThirdDownsMade":43,"totalThirdDownsAttempted":123,"totalFourthDownsMade":5,"totalFourthDownsAttempted":9,"totalPenalties":55,"totalPenaltyYards":387,"avgTimeOfPosessionMinutes":27,"avgTimeOfPosessionSeconds":44,"totalFumbles":12,"totalFumblesLost":2,"totalTurnovers":-1},"BAL":{"rank":14,"teamName":"BAL","totalGamesPlayed":8,"avgPointsPerGame":23.80,"totalPointsScored":190,"totalPlaysFromScrimmage":538,"avgOverallYardsGainedPerGame":357.20,"avgOverallYardsGainedPerPlay":5.30,"avgFirstDownsGainedPerGame":21.00,"totalThirdDownsMade":38,"totalThirdDownsAttempted":109,"totalFourthDownsMade":9,"totalFourthDownsAttempted":13,"totalPenalties":59,"totalPenaltyYards":493,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":24,"totalFumbles":7,"totalFumblesLost":3,"totalTurnovers":-7},"IND":{"rank":18,"teamName":"IND","totalGamesPlayed":9,"avgPointsPerGame":22.20,"totalPointsScored":200,"totalPlaysFromScrimmage":615,"avgOverallYardsGainedPerGame":353.70,"avgOverallYardsGainedPerPlay":5.20,"avgFirstDownsGainedPerGame":21.00,"totalThirdDownsMade":56,"totalThirdDownsAttempted":133,"totalFourthDownsMade":5,"totalFourthDownsAttempted":8,"totalPenalties":62,"totalPenaltyYards":504,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":19,"totalFumbles":14,"totalFumblesLost":7,"totalTurnovers":-7},"BUF":{"rank":20,"teamName":"BUF","totalGamesPlayed":8,"avgPointsPerGame":26.10,"totalPointsScored":209,"totalPlaysFromScrimmage":493,"avgOverallYardsGainedPerGame":350.50,"avgOverallYardsGainedPerPlay":5.70,"avgFirstDownsGainedPerGame":19.00,"totalThirdDownsMade":39,"totalThirdDownsAttempted":105,"totalFourthDownsMade":3,"totalFourthDownsAttempted":7,"totalPenalties":85,"totalPenaltyYards":764,"avgTimeOfPosessionMinutes":29,"avgTimeOfPosessionSeconds":55,"totalFumbles":13,"totalFumblesLost":4,"totalTurnovers":1},"ARI":{"rank":3,"teamName":"ARI","totalGamesPlayed":8,"avgPointsPerGame":32.90,"totalPointsScored":263,"totalPlaysFromScrimmage":497,"avgOverallYardsGainedPerGame":417.40,"avgOverallYardsGainedPerPlay":6.70,"avgFirstDownsGainedPerGame":22.80,"totalThirdDownsMade":42,"totalThirdDownsAttempted":91,"totalFourthDownsMade":3,"totalFourthDownsAttempted":5,"totalPenalties":47,"totalPenaltyYards":378,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":38,"totalFumbles":15,"totalFumblesLost":8,"totalTurnovers":3},"CLE":{"rank":27,"teamName":"CLE","totalGamesPlayed":9,"avgPointsPerGame":19.70,"totalPointsScored":177,"totalPlaysFromScrimmage":579,"avgOverallYardsGainedPerGame":335.10,"avgOverallYardsGainedPerPlay":5.20,"avgFirstDownsGainedPerGame":18.00,"totalThirdDownsMade":58,"totalThirdDownsAttempted":131,"totalFourthDownsMade":3,"totalFourthDownsAttempted":9,"totalPenalties":71,"totalPenaltyYards":555,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":39,"totalFumbles":17,"totalFumblesLost":12,"totalTurnovers":-4},"WAS":{"rank":29,"teamName":"WAS","totalGamesPlayed":8,"avgPointsPerGame":19.80,"totalPointsScored":158,"totalPlaysFromScrimmage":519,"avgOverallYardsGainedPerGame":329.00,"avgOverallYardsGainedPerPlay":5.10,"avgFirstDownsGainedPerGame":20.10,"totalThirdDownsMade":50,"totalThirdDownsAttempted":114,"totalFourthDownsMade":4,"totalFourthDownsAttempted":8,"totalPenalties":51,"totalPenaltyYards":422,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":30,"totalFumbles":10,"totalFumblesLost":5,"totalTurnovers":-2},"ATL":{"rank":5,"teamName":"ATL","totalGamesPlayed":9,"avgPointsPerGame":25.40,"totalPointsScored":229,"totalPlaysFromScrimmage":623,"avgOverallYardsGainedPerGame":402.20,"avgOverallYardsGainedPerPlay":5.80,"avgFirstDownsGainedPerGame":23.60,"totalThirdDownsMade":58,"totalThirdDownsAttempted":129,"totalFourthDownsMade":9,"totalFourthDownsAttempted":13,"totalPenalties":63,"totalPenaltyYards":615,"avgTimeOfPosessionMinutes":33,"avgTimeOfPosessionSeconds":57,"totalFumbles":14,"totalFumblesLost":7,"totalTurnovers":0},"NYG":{"rank":21,"teamName":"NYG","totalGamesPlayed":9,"avgPointsPerGame":27.40,"totalPointsScored":247,"totalPlaysFromScrimmage":581,"avgOverallYardsGainedPerGame":349.70,"avgOverallYardsGainedPerPlay":5.40,"avgFirstDownsGainedPerGame":20.90,"totalThirdDownsMade":49,"totalThirdDownsAttempted":120,"totalFourthDownsMade":3,"totalFourthDownsAttempted":6,"totalPenalties":63,"totalPenaltyYards":505,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":32,"totalFumbles":9,"totalFumblesLost":3,"totalTurnovers":12},"NYJ":{"rank":11,"teamName":"NYJ","totalGamesPlayed":8,"avgPointsPerGame":25.00,"totalPointsScored":200,"totalPlaysFromScrimmage":541,"avgOverallYardsGainedPerGame":365.90,"avgOverallYardsGainedPerPlay":5.40,"avgFirstDownsGainedPerGame":20.40,"totalThirdDownsMade":51,"totalThirdDownsAttempted":117,"totalFourthDownsMade":2,"totalFourthDownsAttempted":5,"totalPenalties":49,"totalPenaltyYards":451,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":54,"totalFumbles":8,"totalFumblesLost":4,"totalTurnovers":7},"SEA":{"rank":19,"teamName":"SEA","totalGamesPlayed":8,"avgPointsPerGame":20.90,"totalPointsScored":167,"totalPlaysFromScrimmage":510,"avgOverallYardsGainedPerGame":353.10,"avgOverallYardsGainedPerPlay":5.50,"avgFirstDownsGainedPerGame":18.40,"totalThirdDownsMade":41,"totalThirdDownsAttempted":109,"totalFourthDownsMade":4,"totalFourthDownsAttempted":5,"totalPenalties":51,"totalPenaltyYards":459,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":52,"totalFumbles":6,"totalFumblesLost":4,"totalTurnovers":-1},"STL":{"rank":31,"teamName":"STL","totalGamesPlayed":8,"avgPointsPerGame":19.10,"totalPointsScored":153,"totalPlaysFromScrimmage":456,"avgOverallYardsGainedPerGame":312.60,"avgOverallYardsGainedPerPlay":5.50,"avgFirstDownsGainedPerGame":15.20,"totalThirdDownsMade":24,"totalThirdDownsAttempted":101,"totalFourthDownsMade":2,"totalFourthDownsAttempted":5,"totalPenalties":68,"totalPenaltyYards":518,"avgTimeOfPosessionMinutes":28,"avgTimeOfPosessionSeconds":29,"totalFumbles":11,"totalFumblesLost":5,"totalTurnovers":4},"CIN":{"rank":6,"teamName":"CIN","totalGamesPlayed":8,"avgPointsPerGame":28.60,"totalPointsScored":229,"totalPlaysFromScrimmage":512,"avgOverallYardsGainedPerGame":391.10,"avgOverallYardsGainedPerPlay":6.10,"avgFirstDownsGainedPerGame":21.20,"totalThirdDownsMade":47,"totalThirdDownsAttempted":104,"totalFourthDownsMade":3,"totalFourthDownsAttempted":4,"totalPenalties":57,"totalPenaltyYards":460,"avgTimeOfPosessionMinutes":31,"avgTimeOfPosessionSeconds":33,"totalFumbles":8,"totalFumblesLost":4,"totalTurnovers":4},"PHI":{"rank":10,"teamName":"PHI","totalGamesPlayed":8,"avgPointsPerGame":24.10,"totalPointsScored":193,"totalPlaysFromScrimmage":549,"avgOverallYardsGainedPerGame":366.40,"avgOverallYardsGainedPerPlay":5.30,"avgFirstDownsGainedPerGame":21.90,"totalThirdDownsMade":33,"totalThirdDownsAttempted":107,"totalFourthDownsMade":5,"totalFourthDownsAttempted":9,"totalPenalties":61,"totalPenaltyYards":464,"avgTimeOfPosessionMinutes":26,"avgTimeOfPosessionSeconds":33,"totalFumbles":9,"totalFumblesLost":5,"totalTurnovers":5},"NE":{"rank":2,"teamName":"NE","totalGamesPlayed":8,"avgPointsPerGame":34.50,"totalPointsScored":276,"totalPlaysFromScrimmage":537,"avgOverallYardsGainedPerGame":420.20,"avgOverallYardsGainedPerPlay":6.30,"avgFirstDownsGainedPerGame":25.10,"totalThirdDownsMade":49,"totalThirdDownsAttempted":101,"totalFourthDownsMade":4,"totalFourthDownsAttempted":7,"totalPenalties":57,"totalPenaltyYards":499,"avgTimeOfPosessionMinutes":30,"avgTimeOfPosessionSeconds":26,"totalFumbles":7,"totalFumblesLost":3,"totalTurnovers":7}}
+      
+    }
+  }
+}

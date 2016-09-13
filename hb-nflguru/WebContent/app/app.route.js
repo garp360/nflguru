@@ -10,24 +10,27 @@
 
 		.state('home', {
 			url : '/',
-			views : {
-				'' : {
-					templateUrl : 'view/home.html',
-					controller : 'HomeController',
-					resolve : {
-						games : function(AppFactory) {
-							return AppFactory.getThisWeeksPicks();
-						}
-					}
+			templateUrl : 'view/home.html',
+			controller : 'HomeController',
+			resolve : {
+				seasonStart : function() {
+					return moment("09-06-2016", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
 				},
-				'toolbar' : {
-					templateUrl : 'view/toolbar.html',
-					controller : 'AppToolbarController',
-					resolve : {
-						factoryMessage : function(AppFactory) {
-							return AppFactory.test();
-						}
-					}
+				season : function(seasonStart) {
+					return parseInt(seasonStart.format('YYYY'));
+				},
+				today : function() {
+					return moment().milliseconds(0).seconds(0).minutes(0).hours(0);
+				},
+				week : function(seasonStart, today) {
+					var tDayOfYear = today.dayOfYear();
+					var sDayOfYear = seasonStart.dayOfYear();
+					var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
+					week = week == 0 ? 1 : week;
+					return week;
+				},
+				games : function(AppFactory) {
+					return AppFactory.getThisWeeksPicks();
 				}
 			}
 		}).state('login', {
@@ -52,16 +55,14 @@
 				} ],
 				week : function(seasonStart, today, dynaweek) {
 					var week = dynaweek;
-					if(!week || week < 0) {
+					if(week < 1) {
 						var tDayOfYear = today.dayOfYear();
 						var sDayOfYear = seasonStart.dayOfYear();
-						var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
+						week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
 						week = week == 0 ? 1 : week;
 					}
-					
 					return week;
 				},
-
 				games : function(AppFactory, season, week) {
 					return AppFactory.loadWeekly(season, week);
 				}

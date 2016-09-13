@@ -1,0 +1,61 @@
+<div>
+	<h4>GAMES Week {{week}}</h4>
+	<table>
+		<colgroup>
+			<col />
+			<col width="80" />
+			<col width="80" />
+			<col width="20" />
+			<col width="60" />
+		</colgroup>
+		<tr ng-repeat="matchup in matchups | orderBy: 'game.longdate' ">
+			<td align="right">{{gameday(matchup.game.longdate)}}</td>
+			<td align="center">{{gametime(matchup.game.longdate)}}</td>
+			<td align="right">{{matchup.game.visitor}}</td>
+			<td align="center">@</td>
+			<td>{{matchup.game.home}}</td>
+			<td>
+				<input type="text" 
+					placeholder="spread" 
+					ng-change="updateSpread(matchup)" 
+					ng-model="matchup.game.spread" 
+					ng-model-options='{ debounce: 2000 }' />
+			</td>
+		</tr>
+	</table>
+	<hr />
+	<table>
+		<colgroup>
+			<col width="30" />
+			<col width="60" />
+			<col width="60" />
+			<col width="60" />
+			<col width="30" />
+			<col width="60" />
+			<col width="60" />
+			<col width="60" />
+			<col width="60" />
+			<col width="60" />
+			<col width="60" />
+		</colgroup>
+		<tr ng-repeat="matchup in matchups | orderBy: '-game.prediction.differential'">
+			<td><input type="checkbox" 
+					ng-change="poolpick(matchup, matchup.game.prediction.visitor.team)" 
+					ng-model="matchup.game.prediction.visitor.selected" 
+					ng-model-options='{ debounce: 2000 }' /></td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.visitor.team}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.visitor.pts}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)" align="center">@</td>
+			<td><input type="checkbox" 
+					ng-change="poolpick(matchup, matchup.game.prediction.home.team)" 
+					ng-model="matchup.game.prediction.home.selected" 
+					ng-model-options='{ debounce: 2000 }' /></td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.home.team}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.home.pts}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.spread}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.visitor.pts - matchup.game.prediction.home.pts}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.differential}}</td>
+			<td ng-show="hasSpread(matchup.game.spread)">{{matchup.game.prediction.pick}}</td>
+		</tr>
+	</table>
+</div>

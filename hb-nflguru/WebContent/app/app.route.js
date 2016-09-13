@@ -52,7 +52,7 @@
 				} ],
 				week : function(seasonStart, today, dynaweek) {
 					var week = dynaweek;
-					if(!week) {
+					if(!week || week < 0) {
 						var tDayOfYear = today.dayOfYear();
 						var sDayOfYear = seasonStart.dayOfYear();
 						var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;

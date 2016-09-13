@@ -1,1 +1,28 @@
-schedule
+<table class="hb-table">
+	<caption>NFL {{season}} Week #{{week}}</caption>
+	<colgroup>
+		<col />
+		<col width="30" />
+		<col />
+		<col width="50" />
+		<col width="50" />
+	</colgroup>
+	<thead>
+		<tr>
+			<th>Visitor</th>
+			<th></th>
+			<th>Home</th>
+			<th>Day</th>
+			<th>Time</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr ng-repeat="game in games | orderBy: 'longdate'">
+		<td>{{game.prediction.visitor.team}}</td>
+		<td align="center">@</td>
+		<td>{{game.prediction.home.team}}</td>
+		<td align="center">{{getDay(game.longdate)}}</td>
+		<td align="center">{{getTime(game.longdate)}}</td>
+	</tr>
+	</tbody>
+</table>

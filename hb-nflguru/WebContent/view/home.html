@@ -11,6 +11,7 @@
 			<th></th>
 			<th>Home</th>
 			<th>Spread</th>
+			<th>Pick</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -19,6 +20,7 @@
 		<td align="center">@</td>
 		<td ng-class="game.prediction.home.selected ? 'hb-picked-team' : ''">{{game.prediction.home.team}} <span>({{game.prediction.home.pts}})</span></td>
 		<td align="center">{{formatSpread(game.spread)}}</td>
+		<td align="center">{{game.prediction.pick}}</td>
 	</tr>
 	</tbody>
 </table>

@@ -3,8 +3,7 @@
 
 	angular.module('hb.nflguru').controller('HomeController', HomeController);
 
-	HomeController.$inject = [ '$log', '$scope', '$stateParams', '$location',
-			'games' ];
+	HomeController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'games' ];
 
 	function HomeController($log, $scope, $stateParams, $location, games) {
 
@@ -29,5 +28,5 @@
 		function isNumeric(n) {
 			return !isNaN(parseFloat(n)) && isFinite(n);
 		}
-	};
+	}
 })();

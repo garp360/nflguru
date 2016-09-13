@@ -22,7 +22,7 @@
 		};
 		
 		function _getSeasonStart() {
-			return moment("09-06-2016", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
+			return moment("09-07-2016", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
 		}
 		
 		function _getCurrentSeason() {

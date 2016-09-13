@@ -37,7 +37,29 @@
 		})
 		.state('schedule', {
 			url : '/schedule',
-			templateUrl : 'view/schedule.html'
+			templateUrl : 'view/schedule.html',
+			resolve : 
+        	{
+        		seasonStart : function() {
+        			return moment("09-08-2016", "MM-DD-YYYY").milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		season : function(seasonStart) {
+        			return parseInt(seasonStart.format('YYYY'));
+        		},
+        		today : function() {
+        			return moment().milliseconds(0).seconds(0).minutes(0).hours(0);
+        		},
+        		week : function(seasonStart, today) {
+        			var tDayOfYear = today.dayOfYear();
+        			var sDayOfYear = seasonStart.dayOfYear();
+					var week = parseInt(((tDayOfYear - sDayOfYear) / 7)) + 1;
+					week = week == 0 ? 1 : week;
+        			return week;
+        		},
+        		games : function(NflGuruFactory, season, week) {
+        			return NflGuruFactory.loadWeekly(season, week);
+        		}
+        	}
 		})
 		.state('spreads', {
 			url : '/spreads',

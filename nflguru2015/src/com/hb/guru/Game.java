@@ -12,11 +12,11 @@ public class Game
 	private Date gametime;
 	private long longdate;
 	private String favorite;
-	private BigDecimal spread = new BigDecimal(999).setScale(1, RoundingMode.HALF_UP);
+	private BigDecimal spread;
 	private String predictedfavorite;
-	private BigDecimal predictedspread = new BigDecimal(999).setScale(1, RoundingMode.HALF_UP);
-	private GameScore actualscore = new GameScore();
-	private GameScore predictedscore = new GameScore();
+	private BigDecimal predictedspread;
+	private GameScore actualscore;
+	private GameScore predictedscore;
 	
 	public Game(String home, String visitor, int week, Date gametime)
 	{

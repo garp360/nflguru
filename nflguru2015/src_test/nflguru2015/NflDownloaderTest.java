@@ -29,7 +29,7 @@ public class NflDownloaderTest
 	{
 		try
 		{
-			URL url = new URL("http://www.nfl.com/stats/categorystats?tabSeq=2&statisticCategory=TOTAL_YARDS&conference=ALL&role=TM&season=2015&seasonType=REG");
+			URL url = new URL("http://www.nfl.com/stats/categorystats?tabSeq=2&statisticCategory=TOTAL_YARDS&conference=ALL&role=TM&season=2016&seasonType=REG");
 			BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream()));
 
 			StringBuilder sb = new StringBuilder();

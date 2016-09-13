@@ -1,0 +1,68 @@
+.navbar>.navbar-inner>.center {
+	margin: 0 0;
+	margin-left: auto;
+}
+
+.hb-content {
+	position: absolute;
+	top: 56px;
+	bottom: 48px;
+	left: 0px;
+	right: 0px;
+	border: none;
+	margin: 5px;
+}
+
+.navbar a.link, .subnavbar a.link, .toolbar a.link, .hb-bar {
+	background-color: #000000;
+	color: green;
+}
+
+.hb-page {
+	right: 0px;
+	bottom: 0px;
+}
+
+.hb-picked-game {
+	background-color: #dfecde;
+}
+
+.hb-picked-team {
+	font-weight: bold;
+}
+
+.hb-table {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #d1d1d1;
+	empty-cells: show;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.hb-table TH, .hb-table TD {
+	border: 1px solid #d1d1d1;
+	padding: 2px 5px;
+}
+
+.hb-table TD>SPAN {
+	font-style:  italic;
+	margin-right: 12px;
+	float:right;
+}
+
+.hb-table TH {
+	background-color: #cfcfcf;
+	border-left: 1px solid #cdcdcd;
+	border-right: 1px solid white;
+}
+
+.hb-table TH:first-child {
+	border-left: 1px solid #d1d1d1;
+}
+
+.hb-table TH:last-child {
+	border-right: 1px solid #d1d1d1;
+}

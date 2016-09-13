@@ -3,21 +3,18 @@
 
 	angular.module('hb.nflguru').controller('ScheduleController', ScheduleController);
 
-	ScheduleController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'season', 'week' ];
+	ScheduleController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'season', 'week', 'games' ];
 
-	function ScheduleController($log, $scope, $stateParams, $location, season, week) {
+	function ScheduleController($log, $scope, $stateParams, $location, season, week, games) {
 
 		$scope.season = season;
 		$scope.week = week;
-		$scope.getDay = formatDay;
+		$scope.games = games;
 		$scope.getTime = formatTime;
 		
-		function formatDay(longdate) {
-			return moment(longdate).format('h:mmA');
-		}
 		
-		function getTime(longdate) {
-			return moment(longdate).format('ddd').toUpperCase();
+		function formatTime(longdate) {
+			return moment(longdate).format('h:mmA');
 		}
 	}
 })();

@@ -53,9 +53,20 @@
 	float:right;
 }
 
+.hb-table CAPTION {
+	border-bottom: 1px solid #cdcdcd;
+	padding: 3px;
+	font-weight: bold;
+}
+
+.hb-table CAPTION, 
 .hb-table TH {
 	background-color: #cfcfcf;
+}
+
+.hb-table TH {
 	border-left: 1px solid #cdcdcd;
+	border-top: 1px solid white;
 	border-right: 1px solid white;
 }
 
@@ -65,4 +76,17 @@
 
 .hb-table TH:last-child {
 	border-right: 1px solid #d1d1d1;
+}
+
+.hb-table.weeks, 
+.hb-table.weeks TD {
+	border: none;
+}
+
+.hb-table.weeks TD {
+	width: 5.88%;
+}
+
+.hb-table.weeks A.link {
+	color: green;
 }

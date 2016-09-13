@@ -46,6 +46,7 @@
 		
 		var factory = {};
 		factory.getThisWeeksPicks = getThisWeeksPicks;
+		factory.loadWeekly = loadWeekly;
 		factory.test = test;
 		return factory;
 	};

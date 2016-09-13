@@ -1,31 +1,36 @@
 package com.hb.guru;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 import java.util.Date;
 
 public class Game 
 {
+	private String id;
 	private final String home;
 	private final String visitor;
 	private int week;
 	private Date gametime;
 	private long longdate;
 	private String favorite;
-	private BigDecimal spread;
+	private BigDecimal spread;// = new BigDecimal(999).setScale(1, RoundingMode.HALF_UP);
 	private String predictedfavorite;
-	private BigDecimal predictedspread;
-	private GameScore actualscore;
-	private GameScore predictedscore;
+	private BigDecimal predictedspread;// = new BigDecimal(999).setScale(1, RoundingMode.HALF_UP);
+	private GameScore actualscore;// = new GameScore();
+	private GameScore predictedscore;// = new GameScore();
+	private String day;
+	private int season;
 	
-	public Game(String home, String visitor, int week, Date gametime)
+	public Game(String id, String home, String visitor, int week, Date gametime, int season, String day)
 	{
 		super();
+		this.id = id;
 		this.home = home;
 		this.visitor = visitor;
 		this.week = week;
 		this.gametime = gametime;
 		this.longdate = gametime.getTime();
+		this.day = day;
+		this.season = season;
 	}
 
 	public int getWeek()
@@ -126,6 +131,36 @@ public class Game
 	public void setPredictedspread(BigDecimal predictedspread)
 	{
 		this.predictedspread = predictedspread;
+	}
+
+	public String getId()
+	{
+		return id;
+	}
+
+	public void setId(String id)
+	{
+		this.id = id;
+	}
+
+	public String getDay()
+	{
+		return day;
+	}
+
+	public void setDay(String day)
+	{
+		this.day = day;
+	}
+
+	public int getSeason()
+	{
+		return season;
+	}
+
+	public void setSeason(int season)
+	{
+		this.season = season;
 	}
 	
 	

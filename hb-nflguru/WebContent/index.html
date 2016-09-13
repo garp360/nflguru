@@ -1,0 +1,67 @@
+<!doctype html>
+<html ng-app="hb.nflguru">
+<head>
+<title>NFLGuru</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<script type='text/javascript' src="vendor/angular/1.5.8/angular.js"></script>
+<script type='text/javascript' src="vendor/angular/1.5.8/angular-animate.js"></script>
+<script type='text/javascript' src="vendor/angular/1.5.8/angular-aria.js"></script>
+<script type='text/javascript' src="vendor/angular/1.5.8/angular-messages.js"></script>
+<script type='text/javascript' src="vendor/angular/1.5.8/angular-sanitize.js"></script>
+<script type='text/javascript' src="vendor/angular/1.5.8/angular-touch.js"></script>
+<script type='text/javascript' src="vendor/angular-ui-router/0.3.1/angular-ui-router.js"></script>
+<script type='text/javascript' src="vendor/firebase/2.4.2/firebase.js"></script>
+<script type='text/javascript' src="vendor/angularfire/1.2.0/angularfire.js"></script>
+<script type='text/javascript' src="vendor/moment/2.10.3/moment.js"></script>
+
+<!-- application -->
+<script type='text/javascript' src="app/app.js"></script>
+<script type='text/javascript' src="app/app.controller.js"></script>
+
+<script type='text/javascript' src="app/app.header.controller.js"></script>
+<script type='text/javascript' src="app/app.toolbar.controller.js"></script>
+
+<script type='text/javascript' src="app/home/home.controller.js"></script>
+<script type='text/javascript' src="app/app.route.js"></script>
+<script type='text/javascript' src="app/app.factory.js"></script>
+
+
+
+<!-- style -->
+<link type="text/css" rel="stylesheet" href="vendor/framework7/1.4.2/css/framework7.material.min.css">
+<link type="text/css" rel="stylesheet" href="vendor/framework7/1.4.2/css/framework7.material.colors.min.css">
+<link type="text/css" rel="stylesheet" href="style/app.css" />
+
+</head>
+<body>
+	<div class="page">
+	<div class="navbar hb-bar">
+		<div class="navbar-inner">
+			<div class="left">
+				<a href="#" class="link icon-only"> 
+					<i class="icon icon-back"></i>
+				</a>
+			</div>
+			<div class="center">NFL GURU</div>
+			<div class="right">
+				<a ui-sref="login" class="link icon-only"> <i class="icon icon-bars"></i>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="hb-content" ui-view></div>
+	<div class="toolbar hb-bar">
+		<div class="toolbar-inner">
+			<a ui-sref="schedule" class="link">Sched</a> 
+			<a ui-sref="spreads" class="link">Spreads</a>
+			<a ui-sref="picks" class="link">Picks</a>
+		</div>
+	</div>
+	</div>
+</body>
+</html>

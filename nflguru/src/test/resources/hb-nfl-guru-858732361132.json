@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hb-nfl-guru",
+  "private_key_id": "8587323611328915c14abd19875b48489da3492e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGuZ0zo5kC6HUc\ng2ml7tGCIfTraXiSjJUiY1QmBjZ3so1GydLzl/Z0XgEO/h69bOg7Bog/8JSTl+bc\n/yXeNMDYqroSs5A147On+esPLWGpz/bBPA7UbQUNJZho23vuA2RDTrxea0Tr7riZ\n+gkilSRTkoh6uIdyDsCXk7Gp9U1qopcaHEVJvfDG7aQHG0uq+RvSbOoCmIL5G+Jt\n77j7p7q7Qd/DgnI/4YXP82eIFpNytBqwv06H/0pAFdMek1MSUXiUP3zhqIs4oE3S\n8hRn8OUZktNpB6ZpZatEcd+b0EXuE4ENwNkCosjdkpiv2KI4+LGCiruJ++oAaiLq\njpJNEHYXAgMBAAECggEAQoimn0Fo21Zkz1UYLBwXPRCNZbv8SGSVEdxbshdmaRD4\nx/iOjkwUkcVfaVufgyBRaGG5gF7V/8xd2SP707ep0WDnx5ci80f3QIgmMQCqsCYW\noX+wH2MYy9wIeSLzDS9JhFd6LcqQWsWkPLlAEboJXYmz9BKQFpnl1Vn3o8WjU83g\nWLWZvLafg+2dSDdYdcURSdMKADv/Q5Xak4xMCDCKyZEFy2KOf0/L69mKxvsNeSjC\nbMEHHl5G+DVHJKL/deKJbREzS2ghIFBftuZuoLMJsu51MDX/rMPmAtyYjYMFghR3\n/WmzB5RkrtAylrA3Jc1q/6M0GwlANZFC6gJge5c4YQKBgQD2Ky1HbInrcGlh+5os\nTuJ77j0Shk8f/91hrQATv4MaPniGGqQOkSkxoADAq5KcWDXpkUgLpLm6TLUxcAah\nmEMBKXREfTiIKwtXbUEXnUmiW4S6uM1hbIdvfYe7Pa79q+wNNVaVL2DM6chYn7Bk\nteRPMe5iOSfoa38z30DzeDUb+QKBgQDOqV/ykQ8yXdqOpzrU9QbKpxIXtbZXDf+j\ne2PO53rP7Lkd90SGVdwb9LVeZweQqecJmbJwO7cvOX511nkLcX4s8FoLg3SaQPg/\n1qyPOWDVVBepfi9lpZRlF9SoditT0cDZ3TPGObOqYpIdcrYvNTrgTrfi5ELsMq/M\nloYJci4GjwKBgQCr3iFSyJjSZD1vR3awkLLXy9Gf6V28/arW0y5Gm2MxI4SKPHdm\nJDsahpd/7UoDFiMt21ztpCh3xa6Lwacfk2rUmNiwKK0bhNH6TDEyB4KtdDALHZNm\n/ZrhYEcvlzVhrnK0FhVJOzbeWiqilXtWFRg9oqLIuRb/0m2RDcIPOlH6IQKBgEsJ\njOEScqYjFdx+NApm/ZRPnW4meJKbbpr5jn/t5NXiakTLJ4JvYoB0Ffa1CjYous7t\nk7DUverTwWsf+MuC5gGDM+7CSHBJ7tmfJQDMILDU29KbErKhsIQUZw7T+V9x5cg1\nXTs4cFgJemxe3m+9sCcJ7hLgNrx0mwh6DykW4EdZAoGAVlPlqup2UiYmMTR4xXte\nPqn8eaBcs0v4pRThVTPPQHHCNscjV5ZZ8Dj9P8JPJpkVt+qtHEYMMZvgo++7JstF\n6yqDdLTdmFD00hWkmJRhtB+G+eq23NH1Y72Fxcaj3kD3L0phXvTjySOqC2myfXv9\nXQzrHVtkAIQcDdn9bHNkDss=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nflguru-java@hb-nfl-guru.iam.gserviceaccount.com",
+  "client_id": "105440616187774618250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nflguru-java%40hb-nfl-guru.iam.gserviceaccount.com"
+}

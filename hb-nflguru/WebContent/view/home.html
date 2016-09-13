@@ -1,0 +1,24 @@
+<table class="hb-table">
+	<colgroup>
+		<col />
+		<col width="30" />
+		<col />
+		<col width="80" />
+	</colgroup>
+	<thead>
+		<tr>
+			<th>Visitor</th>
+			<th></th>
+			<th>Home</th>
+			<th>Spread</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr ng-class="(game.prediction.visitor.selected || game.prediction.home.selected) ? 'hb-picked-game' : ''" ng-repeat="game in games | orderBy: '-prediction.differential'">
+		<td ng-class="game.prediction.visitor.selected ? 'hb-picked-team' : ''">{{game.prediction.visitor.team}} <span>({{game.prediction.visitor.pts}})</span></td>
+		<td align="center">@</td>
+		<td ng-class="game.prediction.home.selected ? 'hb-picked-team' : ''">{{game.prediction.home.team}} <span>({{game.prediction.home.pts}})</span></td>
+		<td align="center">{{formatSpread(game.spread)}}</td>
+	</tr>
+	</tbody>
+</table>

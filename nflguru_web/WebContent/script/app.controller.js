@@ -76,12 +76,18 @@
 			}
 			
 			function _getScore(offense, defense, homeAdvantage) {
-				var homeAdvantageMultiplier = homeAdvantage ? 2 : 1;
+//	Week 1		var homeAdvantageMultiplier = homeAdvantage ? 2 : 1;
+//				
+//				var opts = Math.round((offense.avgPointsPerGame *  homeAdvantageMultiplier) + 1);
+//				var dpts = Math.round(defense.avgPointsPerGame + 1);
+//				
+//				return Math.round(((opts + dpts) / (homeAdvantageMultiplier + 1) + 1));
 				
-				var opts = Math.round((offense.avgPointsPerGame *  homeAdvantageMultiplier) + 1);
+				var homeAdvantageMultiplier = homeAdvantage ? 2.5 : 0;
+				var opts = Math.round(offense.avgPointsPerGame + 1);
 				var dpts = Math.round(defense.avgPointsPerGame + 1);
 				
-				return Math.round(((opts + dpts) / (homeAdvantageMultiplier + 1) + 1));
+				return Math.round( ( (opts + dpts) / 2) + 1 + homeAdvantageMultiplier);
 			}
 			
 			function _getDifferential(home, visitor, spread) {

@@ -30,7 +30,7 @@ import com.hb.guru.TeamStats;
 
 public class NflStatsDownloader
 {
-	private static final int SEASON_YEAR = 2015;
+	private static final int SEASON_YEAR = 2016;
 	private String URL_PARSE_MARKER_EARLY = "<!-- 77 Sortable Column Table 720px START -->";
 	private String URL_PARSE_MARKER_LATE = "<!-- End Data Table, if table is not null -->";
 	private SimpleDateFormat sdf = new SimpleDateFormat("EEEE,MMMM dd,yyyy,h:mm a z");

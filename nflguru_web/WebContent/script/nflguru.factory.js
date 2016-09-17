@@ -22,21 +22,9 @@
 		function loadWeeklyStats(season, week) 
 		{
 			var ref = new Firebase("https://hb-nfl-guru.firebaseio.com");
-			return $firebaseArray(ref.child("statistics").child("S:" + season).child("S:" + season + ":W:" + week)).$loaded();
+			return $firebaseArray(ref.child("statistics").child("S:" + season).child("S:" + season + ":W:" + week).child("teams")).$loaded();
 		};
 
 		return factory;
 	};
 })();
-
-
-//function updateALl() 
-//{
-//	var ref = new Firebase("https://hb-nfl-guru.firebaseio.com");
-//	$firebaseArray(ref.child("games")).$loaded().then(function(games){
-//		angular.forEach(games, function(game){
-//			game.longdate = moment(game.longdate).add(4, 'h').add(1, 'm').toISOString();
-//			games.$save(game);
-//		})
-//	});
-//};

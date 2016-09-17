@@ -1,22 +1,22 @@
 <table class="hb-table weeks">
 	<tr>
-		<td><a ui-sref="schedule({week:1})" class="link">1</a></td>
-		<td><a ui-sref="schedule({week:2})" class="link">2</a></td>
-		<td><a ui-sref="schedule({week:3})" class="link">3</a></td>
-		<td><a ui-sref="schedule({week:4})" class="link">4</a></td>
-		<td><a ui-sref="schedule({week:5})" class="link">5</a></td>
-		<td><a ui-sref="schedule({week:6})" class="link">6</a></td>
-		<td><a ui-sref="schedule({week:7})" class="link">7</a></td>
-		<td><a ui-sref="schedule({week:8})" class="link">8</a></td>
-		<td><a ui-sref="schedule({week:9})" class="link">9</a></td>
-		<td><a ui-sref="schedule({week:10})" class="link">10</a></td>
-		<td><a ui-sref="schedule({week:11})" class="link">11</a></td>
-		<td><a ui-sref="schedule({week:12})" class="link">12</a></td>
-		<td><a ui-sref="schedule({week:13})" class="link">13</a></td>
-		<td><a ui-sref="schedule({week:14})" class="link">14</a></td>
-		<td><a ui-sref="schedule({week:15})" class="link">15</a></td>
-		<td><a ui-sref="schedule({week:16})" class="link">16</a></td>
-		<td><a ui-sref="schedule({week:17})" class="link">17</a></td>
+		<td ng-class="week == 1 ? 'selected' : ''"><a ui-sref="schedule({week:1})" class="link">1</a></td>
+		<td ng-class="week == 2 ? 'selected' : ''"><a ui-sref="schedule({week:2})" class="link">2</a></td>
+		<td ng-class="week == 3 ? 'selected' : ''"><a ui-sref="schedule({week:3})" class="link">3</a></td>
+		<td ng-class="week == 4 ? 'selected' : ''"><a ui-sref="schedule({week:4})" class="link">4</a></td>
+		<td ng-class="week == 5 ? 'selected' : ''"><a ui-sref="schedule({week:5})" class="link">5</a></td>
+		<td ng-class="week == 6 ? 'selected' : ''"><a ui-sref="schedule({week:6})" class="link">6</a></td>
+		<td ng-class="week == 7 ? 'selected' : ''"><a ui-sref="schedule({week:7})" class="link">7</a></td>
+		<td ng-class="week == 8 ? 'selected' : ''"><a ui-sref="schedule({week:8})" class="link">8</a></td>
+		<td ng-class="week == 9 ? 'selected' : ''"><a ui-sref="schedule({week:9})" class="link">9</a></td>
+		<td ng-class="week == 10 ? 'selected' : ''"><a ui-sref="schedule({week:10})" class="link">10</a></td>
+		<td ng-class="week == 11 ? 'selected' : ''"><a ui-sref="schedule({week:11})" class="link">11</a></td>
+		<td ng-class="week == 12 ? 'selected' : ''"><a ui-sref="schedule({week:12})" class="link">12</a></td>
+		<td ng-class="week == 13 ? 'selected' : ''"><a ui-sref="schedule({week:13})" class="link">13</a></td>
+		<td ng-class="week == 14 ? 'selected' : ''"><a ui-sref="schedule({week:14})" class="link">14</a></td>
+		<td ng-class="week == 15 ? 'selected' : ''"><a ui-sref="schedule({week:15})" class="link">15</a></td>
+		<td ng-class="week == 16 ? 'selected' : ''"><a ui-sref="schedule({week:16})" class="link">16</a></td>
+		<td ng-class="week == 17 ? 'selected' : ''"><a ui-sref="schedule({week:17})" class="link">17</a></td>
 	</tr>
 </table>
 <table class="hb-table">
@@ -26,7 +26,7 @@
 		<col width="30" />
 		<col />
 		<col width="50" />
-		<col width="50" />
+		<col width="100" />
 	</colgroup>
 	<thead>
 		<tr>

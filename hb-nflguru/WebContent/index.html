@@ -28,6 +28,7 @@
 
 <script type='text/javascript' src="app/home/home.controller.js"></script>
 <script type='text/javascript' src="app/schedule/schedule.controller.js"></script>
+<script type='text/javascript' src="app/spreads/spreads.controller.js"></script>
 <script type='text/javascript' src="app/app.route.js"></script>
 <script type='text/javascript' src="app/app.factory.js"></script>
 
@@ -56,11 +57,11 @@
 		</div>
 	</div>
 	<div class="hb-content" ui-view></div>
-	<div class="toolbar hb-bar">
+	<div ng-controller="AppToolbarController" class="toolbar hb-bar">
 		<div class="toolbar-inner">
-			<a ui-sref="schedule({week:1})" class="link">Sched</a> 
-			<a ui-sref="spreads" class="link">Spreads</a>
-			<a ui-sref="picks" class="link">Picks</a>
+			<a ng-click="showSchedule()" class="link">Sched</a> 
+			<a ui-sref="spreads({week: week})" class="link">Spreads</a>
+			<a ui-sref="picks({week: week})" class="link">Picks</a>
 		</div>
 	</div>
 	</div>

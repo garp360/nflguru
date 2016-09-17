@@ -29,17 +29,16 @@
 
 .hb-picked-team {
 	font-weight: bold;
+	font-size: 1.1em;
+	color: #175A21;
 }
 
 .hb-table {
 	width: 100%;
 	border-collapse: collapse;
-	border: 1px solid #d1d1d1;
+	border: none;
+	table-layout: fixed;
 	empty-cells: show;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px; /* future proofing */
-	-khtml-border-radius: 10px; /* for old Konqueror browsers */
 }
 
 .hb-table TH, .hb-table TD {
@@ -78,13 +77,21 @@
 	border-right: 1px solid #d1d1d1;
 }
 
-.hb-table.weeks, 
-.hb-table.weeks TD {
-	border: none;
+.hb-table.weeks {
+	border-collapse: separate;
+	border-spacing: 1px;
 }
 
 .hb-table.weeks TD {
-	width: 5.88%;
+	text-align: center;
+	border: 1px solid white;
+	color: white;
+}
+
+.hb-table.weeks TD.selected {
+	border: 1px solid #BFDBB6;
+	background-color: #EBFAE6;
+	
 }
 
 .hb-table.weeks A.link {

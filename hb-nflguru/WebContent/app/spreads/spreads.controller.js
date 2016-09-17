@@ -1,13 +1,12 @@
 (function() {
 	'use strict';
 
-	angular.module('hb.nflguru').controller('HomeController', HomeController);
+	angular.module('hb.nflguru').controller('SpreadsController', SpreadsController);
 
-	HomeController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'games', 'week', 'season' ];
+	SpreadsController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'games' ];
 
-	function HomeController($log, $scope, $stateParams, $location, games, week, season) {
+	function SpreadsController($log, $scope, $stateParams, $location, games, week) {
 
-		$scope.season = season;
 		$scope.week = week;
 		$scope.games = games;
 

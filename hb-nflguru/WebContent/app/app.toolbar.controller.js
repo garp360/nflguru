@@ -10,10 +10,16 @@
     	function AppToolbarController( $log, $scope, $state, $location ){
 			
     		$scope.showSchedule = showSchedule;
+    		$scope.showSpreads = showSpreads;
     		
     		function showSchedule() {
     			var week = currentWeek();
     			$state.go('schedule', {week: week});
+    		}
+    		
+    		function showSpreads() {
+    			var week = currentWeek();
+    			$state.go('spreads', {week: week});
     		}
     		
     		function currentWeek() {

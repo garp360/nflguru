@@ -3,9 +3,9 @@
 
 	angular.module('hb.nflguru').controller('SpreadsController', SpreadsController);
 
-	SpreadsController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'games' ];
+	SpreadsController.$inject = [ '$log', '$scope', '$stateParams', '$location', 'games', 'week', 'season' ];
 
-	function SpreadsController($log, $scope, $stateParams, $location, games, week) {
+	function SpreadsController($log, $scope, $stateParams, $location, games, week, season) {
 
 		$scope.week = week;
 		$scope.games = games;

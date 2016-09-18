@@ -1,1 +1,29 @@
-spreads
+<table class="hb-table">
+	<colgroup>
+		<col width="55" />
+		<col width="30" />
+		<col width="55" />
+		<col />
+	</colgroup>
+	<caption>NFL {{season}} Week #{{week}}</caption>
+	<thead>
+		<tr>
+			<th>Visitor</th>
+			<th></th>
+			<th>Home</th>
+			<th>Spread</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr ng-repeat="game in games | orderBy: 'longdate'">
+		<td>{{game.visitor}}</td>
+		<td align="center">@</td>
+		<td>{{game.home}}</td>
+		<td><input style="margin-right:10px;" type="text" 
+					placeholder="spread" 
+					ng-change="updateSpread(matchup)" 
+					ng-model="matchup.game.spread" 
+					ng-model-options='{ debounce: 2000 }' /></td>
+	</tr>
+	</tbody>
+</table>
